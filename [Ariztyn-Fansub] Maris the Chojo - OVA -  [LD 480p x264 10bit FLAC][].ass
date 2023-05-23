@@ -11,15 +11,14 @@ YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../raws/choujo.take13.VFR.mkv
-Video File: ../../raws/choujo.take13.VFR.mkv
-Keyframes File: choujo.take13.VFR_keyframes.log
+Audio File: [Orphan] Maris the Choujo v2 (LD) [8267604D].mkv
+Video File: [Orphan] Maris the Choujo v2 (LD) [8267604D].mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 1.000000
-Scroll Position: 564
-Active Line: 565
-Video Position: 42030
+Video Zoom Percent: 0.750000
+Scroll Position: 58
+Active Line: 68
+Video Position: 10772
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -86,22 +85,23 @@ Comment: 0,0:01:03.38,0:01:08.34,Sign,,0,0,0,,
 Comment: 0,0:01:08.89,0:01:13.85,Sign,,0,0,0,,
 Comment: 0,0:45:18.91,0:45:23.50,Sign,,0,0,0,,{\1a&H80&\b1\fs60\fnVTKS Tattoo\pos(320,390)\c&H67B0C6&\blur1\3c&H7898B2&\bord3\blur8}{The End}Hết
 Comment: 1,0:45:18.91,0:45:23.50,Sign,,0,0,0,,{\fs60\fnVTKS Tattoo\b1\pos(320,390)\c&H67B0C6&\blur1.2}{The End}Hết
-Dialogue: 10,0:05:09.71,0:05:12.13,Thought,,0,0,0,,{He peed his pants.}Anh ta tè ra quần.
-Dialogue: 10,0:05:22.47,0:05:24.02,Default,,0,0,0,,Gross!
-Dialogue: 10,0:05:24.02,0:05:26.48,Default,,0,0,0,,Workers of the Jubei Shipping Agency!
-Dialogue: 10,0:05:26.48,0:05:28.56,Default,,0,0,0,,You're under arrest\N for smuggling drugs!
-Dialogue: 10,0:05:41.16,0:05:43.03,Default,,0,0,0,,You did it, Maris!
-Dialogue: 10,0:05:43.03,0:05:44.66,Default,,0,0,0,,Nothing to it, Murphy.
-Dialogue: 10,0:06:07.56,0:06:09.73,Default,,0,0,0,,Finally, a vacation!
-Dialogue: 10,0:06:13.02,0:06:14.98,Default,,0,0,0,,Maris, you're not wearing your restraints!
-Dialogue: 10,0:06:15.48,0:06:16.98,Default,,0,0,0,,Damn!
-Dialogue: 10,0:06:23.45,0:06:25.24,Default,,0,0,0,,Maris!
-Dialogue: 10,0:06:36.42,0:06:39.72,Default,,0,0,0,,Lieutenant Maris, this is your third ship.
-Dialogue: 10,0:06:39.72,0:06:44.80,Default,,0,0,0,,But Colonel, don't you think it's your fault for giving me an Earth ship?
-Dialogue: 10,0:06:44.80,0:06:47.10,Default,,0,0,0,,I'm six times stronger\N than an Earthling.
-Dialogue: 10,0:06:47.10,0:06:49.27,Default,,0,0,0,,You're still responsible for the damages.
-Dialogue: 10,0:06:49.27,0:06:50.27,Default,,0,0,0,,Do you understand?
-Dialogue: 10,0:06:50.27,0:06:53.27,Default,,0,0,0,,Do you understand,\N Lieutenant Maris?!
+Dialogue: 10,0:05:09.71,0:05:12.13,Thought,,0,0,0,,{He peed his pants.}Hắn tè ra quần.
+Dialogue: 10,0:05:22.47,0:05:24.02,Default,,0,0,0,,{Gross!}Kinh vãi!
+Dialogue: 10,0:05:24.02,0:05:26.48,Default,,0,0,0,,{Workers of the Jubei Shipping Agency!}Nhân viên của Cục Vận chuyển Jubei!
+Dialogue: 10,0:05:26.48,0:05:28.56,Default,,0,0,0,,Tôi sẽ bắt anh vì tội buôn lậu ma tuý!{You're under arrest\N for smuggling drugs!}
+Dialogue: 10,0:05:41.16,0:05:43.03,Default,,0,0,0,,{You did it, Maris!}Cô làm tốt lắm, Maris!
+Dialogue: 10,0:05:43.03,0:05:44.66,Default,,0,0,0,,{Nothing to it, Murphy.}Cứ để tôi lo, Murphy.
+Dialogue: 10,0:06:07.56,0:06:09.73,Default,,0,0,0,,{Finally, a vacation!}Hoan hô, được nghỉ phép rồi!
+Dialogue: 10,0:06:13.02,0:06:14.98,Default,,0,0,0,,Maris, cô chưa mặc bộ kháng lực đấy!{you're not wearing your restraints!}
+Dialogue: 10,0:06:15.48,0:06:16.98,Default,,0,0,0,,Chết!{Damn!}
+Dialogue: 10,0:06:23.45,0:06:25.24,Default,,0,0,0,,Ma-Maris!
+Dialogue: 10,0:06:36.42,0:06:39.72,Default,,0,0,0,,{Lieutenant Maris, this is your third ship.}Thiếu uý Maris, đây đã là chiếc thứ ba rồi đấy.
+Dialogue: 10,0:06:39.72,0:06:42.27,Default,,0,0,0,,{But Colonel, don't you think it's your fault for giving me an Earth ship?}Nhưng mà Đại tá, bộ ngài \Nkhông thấy đây là lỗi của ngài,
+Dialogue: 10,0:06:42.28,0:06:44.80,Default,,0,0,0,,{But Colonel, don't you think it's your fault for giving me an Earth ship?}khi đưa cho tôi phi thuyền Trái Đất sao?
+Dialogue: 10,0:06:44.80,0:06:47.10,Default,,0,0,0,,{I'm six times stronger\N than an Earthling.}Vì tôi mạnh gấp 6 lần người Trái Đất lận mà.
+Dialogue: 10,0:06:47.10,0:06:49.27,Default,,0,0,0,,{You're still responsible for the damages.}Nhưng cô vẫn phải bồi thường thiệt hại.
+Dialogue: 10,0:06:49.27,0:06:50.27,Default,,0,0,0,,{Do you understand?}Rõ rồi chứ?
+Dialogue: 10,0:06:50.27,0:06:53.27,Default,,0,0,0,,{Do you understand,\N Lieutenant Maris?!}Cô hiểu chứ, Thiếu uý Maris?
 Dialogue: 10,0:07:21.05,0:07:22.05,Default,,0,0,0,,We're running late!
 Dialogue: 10,0:07:22.05,0:07:24.70,Default,,0,0,0,,I don't want to waste these\N hard-earned concert tickets.
 Dialogue: 10,0:07:24.70,0:07:25.76,Default,,0,0,0,,Please hurry!
