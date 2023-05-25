@@ -16,9 +16,9 @@ Video File: [Orphan] Maris the Choujo v2 (LD) [8267604D].mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
-Scroll Position: 58
-Active Line: 68
-Video Position: 10772
+Scroll Position: 458
+Active Line: 467
+Video Position: 13371
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -27,9 +27,10 @@ Style: Thought,UVN Van,34,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,-1,-1,0,0,
 Style: Overlap,Franklin Gothic Medium,32,&H00FFFFFF,&H0000FFFF,&H00001448,&H00000000,-1,0,0,0,100,100,0,0,1,2.3,0,2,40,40,22,1
 Style: Sign,UVN Van,30,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,0,0,0,1
 Style: InsR,Disney Simple,30,&H00FFFFFF,&H0000FFFF,&H00762507,&H00000000,0,0,0,0,100,100,0,0,1,2.3,0,8,40,40,20,1
-Style: InsE,Disney Simple,30,&H00FFFFFF,&H0000FFFF,&H00762507,&H00000000,0,0,0,0,100,100,0,0,1,2.3,0,2,40,40,22,1
+Style: InsE - Translated,UVN Van,34,&H00FFFFFF,&H0000FFFF,&H00762507,&H00000000,0,0,0,0,100,100,0,0,1,2.3,0,2,40,40,30,1
 Style: EdR,Cac Moose,35,&H00FFFFFF,&H0000FFFF,&H00001448,&H00000000,0,0,0,0,100,100,0,0,1,2.3,0,8,40,40,18,1
 Style: EdE,Cac Moose,35,&H00FFFFFF,&H0000FFFF,&H00001448,&H00000000,0,0,0,0,100,100,0,0,1,2.3,0,2,40,40,22,1
+Style: InsE - Romaji,UVN Van,34,&H00FFFFFF,&H0000FFFF,&H00762507,&H00000000,0,0,0,0,100,100,0,0,1,2.3,0,8,40,40,30,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -59,7 +60,7 @@ Comment: 0,0:09:19.96,0:09:21.50,InsR,,0,0,0,,buin buin buin
 Comment: 0,0:09:21.50,0:09:25.21,InsR,,0,0,0,,kono mama
 Comment: 0,0:09:25.21,0:09:28.43,InsR,,0,0,0,,ki no mama
 Comment: 0,0:09:29.14,0:09:36.68,InsR,,0,0,0,,uchuu ni ukabu yuu wakuwaku wakuwaku hoshi
-Comment: 0,0:23:22.84,0:23:23.84,InsE,,0,0,0,,{insert}
+Comment: 0,0:23:22.84,0:23:23.84,InsE - Translated,,0,0,0,,{insert}
 Comment: 0,0:23:23.84,0:23:26.01,InsR,,0,0,0,,yoake ni
 Comment: 0,0:23:27.14,0:23:29.35,InsR,,0,0,0,,ma doru mu
 Comment: 0,0:23:30.48,0:23:32.73,InsR,,0,0,0,,fushigi na
@@ -102,17 +103,17 @@ Dialogue: 10,0:06:44.80,0:06:47.10,Default,,0,0,0,,{I'm six times stronger\N tha
 Dialogue: 10,0:06:47.10,0:06:49.27,Default,,0,0,0,,{You're still responsible for the damages.}Nhưng cô vẫn phải bồi thường thiệt hại.
 Dialogue: 10,0:06:49.27,0:06:50.27,Default,,0,0,0,,{Do you understand?}Rõ rồi chứ?
 Dialogue: 10,0:06:50.27,0:06:53.27,Default,,0,0,0,,{Do you understand,\N Lieutenant Maris?!}Cô hiểu chứ, Thiếu uý Maris?
-Dialogue: 10,0:07:21.05,0:07:22.05,Default,,0,0,0,,We're running late!
-Dialogue: 10,0:07:22.05,0:07:24.70,Default,,0,0,0,,I don't want to waste these\N hard-earned concert tickets.
-Dialogue: 10,0:07:24.70,0:07:25.76,Default,,0,0,0,,Please hurry!
-Dialogue: 10,0:07:46.78,0:07:49.41,Default,,0,0,0,,This way...
-Dialogue: 10,0:07:57.63,0:08:00.30,Default,,0,0,0,,You're looking for\N a Human Taxi, aren't you?
-Dialogue: 10,0:08:00.30,0:08:01.84,Default,,0,0,0,,Aren't you?!
-Dialogue: 10,0:08:01.84,0:08:03.01,Default,,0,0,0,,N-No, I... uh...
-Dialogue: 10,0:08:03.01,0:08:06.43,Default,,0,0,0,,Don't make her angry. \NShe's a violent citizen from Thanatos.
-Dialogue: 10,0:08:06.43,0:08:08.30,Default,,0,0,0,,The planet that blew up?!
-Dialogue: 10,0:08:08.30,0:08:10.77,Default,,0,0,0,,You're gonna hire me\N as a Human Taxi, right?
-Dialogue: 10,0:08:10.77,0:08:12.06,Default,,0,0,0,,Y-Yes, ma'am.
+Dialogue: 10,0:07:21.05,0:07:22.05,Default,,0,0,0,,{We're running late!}Ta sẽ trễ mất!
+Dialogue: 10,0:07:22.05,0:07:24.70,Default,,0,0,0,,{I don't want to waste these\N hard-earned concert tickets.}Mấy chiếc vé đến buổi biểu diễn mà ta phải \Nvất vả để có được sẽ uỏng phí mất.
+Dialogue: 10,0:07:24.70,0:07:26.96,Default,,0,0,0,,{Please hurry!}Nên lẹ lên chú ơi!
+Dialogue: 10,0:07:46.78,0:07:49.41,Default,,0,0,0,,Bên này~{This way...}
+Dialogue: 10,0:07:57.63,0:08:00.30,Default,,0,0,0,,{You're looking for\N a Human Taxi, aren't you?}Có vẻ như bác muốn đi Taxi Người nhỉ?
+Dialogue: 10,0:08:00.30,0:08:01.84,Default,,0,0,0,,{Aren't you?!}Đúng không?
+Dialogue: 10,0:08:01.84,0:08:03.01,Default,,0,0,0,,{N-No, I... uh...}K-Không, ưm, tôi...
+Dialogue: 10,0:08:03.01,0:08:06.10,Default,,0,0,0,,{Don't make her angry. \NShe's a violent citizen from Thanatos.}Đừng có chọc tức cổ. Cô ta là \N người Thanatos tàn bạo đấy.
+Dialogue: 10,0:08:06.11,0:08:08.42,Default,,0,0,0,,{The planet that blew up?!}Ế?! Cái hành tinh Thanatos bị nổ tung sao?
+Dialogue: 10,0:08:08.44,0:08:10.77,Default,,0,0,0,,{You're gonna hire me\N as a Human Taxi, right?}Bác muốn đi Taxi người, đúng không?
+Dialogue: 10,0:08:10.77,0:08:12.06,Default,,0,0,0,,Ơ... Vâng.{Y-Yes, ma'am.}
 Dialogue: 10,0:09:52.87,0:09:54.24,Default,,0,0,0,,It's so hot!
 Dialogue: 10,0:09:54.95,0:09:56.25,Default,,0,0,0,,Dammit!
 Dialogue: 10,0:09:56.25,0:09:58.66,Default,,0,0,0,,We finally got a vacation, and I still have to work!
@@ -478,40 +479,62 @@ Dialogue: 10,0:45:00.01,0:45:02.18,Default,,0,0,0,,Hey!
 Dialogue: 10,0:45:02.18,0:45:04.02,Default,,0,0,0,,My goodness!
 Dialogue: 10,0:45:04.02,0:45:05.98,Default,,0,0,0,,Lieutenant Maris!
 Dialogue: 10,0:45:11.40,0:45:15.95,Default,,0,0,0,,Being poor is to blame!
-Dialogue: 0,0:08:27.32,0:08:31.16,InsE,,0,0,0,,Woo, staring
-Dialogue: 0,0:08:31.16,0:08:35.00,InsE,,0,0,0,,Woo, whispering
-Dialogue: 0,0:08:35.00,0:08:38.67,InsE,,0,0,0,,I opened the door, and he was sexy!
-Dialogue: 0,0:08:38.67,0:08:42.34,InsE,,0,0,0,,When I turn to look, he's not there
-Dialogue: 0,0:08:42.67,0:08:46.51,InsE,,0,0,0,,Woo, everywhere
-Dialogue: 0,0:08:46.51,0:08:49.85,InsE,,0,0,0,,Woo, forever
-Dialogue: 0,0:08:50.22,0:08:54.18,InsE,,0,0,0,,At the edge of the waves, he's my paradise
-Dialogue: 0,0:08:54.18,0:08:58.19,InsE,,0,0,0,,When I blink, he's gone
-Dialogue: 0,0:08:58.19,0:09:01.98,InsE,,0,0,0,,The wondrous Rumic World
-Dialogue: 0,0:09:01.98,0:09:05.95,InsE,,0,0,0,,Is this the rumored long, long beach?
-Dialogue: 0,0:09:05.95,0:09:09.99,InsE,,0,0,0,,Don't move
-Dialogue: 0,0:09:09.99,0:09:12.74,InsE,,0,0,0,,Don't lose your footing
-Dialogue: 0,0:09:13.58,0:09:19.96,InsE,,0,0,0,,If you smile, you'll see a beautiful barometric map
-Dialogue: 0,0:09:19.96,0:09:21.50,InsE,,0,0,0,,Boing! Boing! Boing! {This is really supposed the be like the blaring of music or sound, but "Blare! Blare! Blare!" sounds so weird, so I used "Boom! Boom! Boom!" instead. Not to be confused with the sound of an explosion. If you can come up with something better, feel free to edit it in. - tenkenX6}
-Dialogue: 0,0:09:21.50,0:09:25.21,InsE,,0,0,0,,Just keep on
-Dialogue: 0,0:09:25.21,0:09:28.43,InsE,,0,0,0,,Doing what you want
-Dialogue: 0,0:09:29.14,0:09:36.68,InsE,,0,0,0,,Just like this, just like that, floating in space
-Dialogue: 0,0:23:23.84,0:23:26.01,InsE,,0,0,0,,When dawn arrives
-Dialogue: 0,0:23:27.14,0:23:29.35,InsE,,0,0,0,,I fall asleep
-Dialogue: 0,0:23:30.48,0:23:32.73,InsE,,0,0,0,,In a world
-Dialogue: 0,0:23:33.77,0:23:36.06,InsE,,0,0,0,,So strange to me
-Dialogue: 0,0:23:38.48,0:23:43.28,InsE,,0,0,0,,Everywhere I turn
-Dialogue: 0,0:23:44.99,0:23:49.45,InsE,,0,0,0,,I only see waves of sand
-Dialogue: 0,0:23:53.96,0:23:56.13,InsE,,0,0,0,,I long for those days
-Dialogue: 0,0:23:57.25,0:23:59.46,InsE,,0,0,0,,When I
-Dialogue: 0,0:24:00.30,0:24:02.84,InsE,,0,0,0,,Was together
-Dialogue: 0,0:24:04.05,0:24:06.22,InsE,,0,0,0,,With you
-Dialogue: 0,0:24:08.64,0:24:12.89,InsE,,0,0,0,,Please return the dream
-Dialogue: 0,0:24:15.31,0:24:19.61,InsE,,0,0,0,,That I entrusted
-Dialogue: 0,0:24:21.99,0:24:29.20,InsE,,0,0,0,,To you long ago
-Dialogue: 0,0:24:32.08,0:24:38.08,InsE,,0,0,0,,Our memories are like an oasis
-Dialogue: 0,0:24:38.79,0:24:45.34,InsE,,0,0,0,,A green lullaby
-Dialogue: 0,0:24:45.34,0:24:52.22,InsE,,0,0,0,,Run hand in hand through the meadow
-Dialogue: 0,0:24:52.22,0:25:01.73,InsE,,0,0,0,,You and I will be together forever
+Comment: 0,0:08:27.32,0:08:27.32,InsE - Translated,,0,0,0,,OP Romaji Start
+Dialogue: 0,0:08:27.32,0:08:31.16,InsE - Romaji,,0,0,0,,{\k11}{\k72}Woo{\k46} {\k21}mi{\k21}tsu{\k30}me{\k86}te{\k66}ru{\k31}
+Dialogue: 0,0:08:31.16,0:08:35.00,InsE - Romaji,,0,0,0,,{\k7}{\k74}Woo{\k38} {\k28}sa{\k28}sa{\k22}ya{\k78}ki {\k109}wa
+Dialogue: 0,0:08:35.00,0:08:38.67,InsE - Romaji,,0,0,0,,{\k6}{\k27}Do{\k21}a {\k27}o {\k21}a{\k17}ke{\k16}ta{\k40}ra{\k23} {\k27}a{\k17}i{\k24}tsu {\k15}wa {\k36}SE{\k50}XY
+Dialogue: 0,0:08:38.67,0:08:42.34,InsE - Romaji,,0,0,0,,{\k24}{\k22}Fu{\k26}ri{\k22}mu{\k26}ki {\k20}za{\k20}ma {\k35}ni{\k23} {\k45}i{\k45}na{\k44}i{\k15}
+Dialogue: 0,0:08:42.67,0:08:46.51,InsE - Romaji,,0,0,0,,Woo, everywhere
+Dialogue: 0,0:08:46.51,0:08:49.85,InsE - Romaji,,0,0,0,,Woo, forever
+Dialogue: 0,0:08:50.22,0:08:54.18,InsE - Romaji,,0,0,0,,At the edge of the waves, he's my paradise
+Dialogue: 0,0:08:54.18,0:08:58.19,InsE - Romaji,,0,0,0,,When I blink, he's gone
+Dialogue: 0,0:08:58.19,0:09:01.98,InsE - Romaji,,0,0,0,,The wondrous Rumic World
+Dialogue: 0,0:09:01.98,0:09:05.95,InsE - Romaji,,0,0,0,,Is this the rumored long, long beach?
+Dialogue: 0,0:09:05.95,0:09:09.99,InsE - Romaji,,0,0,0,,Don't move
+Dialogue: 0,0:09:09.99,0:09:12.74,InsE - Romaji,,0,0,0,,Don't lose your footing
+Dialogue: 0,0:09:13.58,0:09:19.96,InsE - Romaji,,0,0,0,,If you smile, you'll see a beautiful barometric map
+Dialogue: 0,0:09:19.96,0:09:21.50,InsE - Romaji,,0,0,0,,Boing! Boing! Boing! {This is really supposed the be like the blaring of music or sound, but "Blare! Blare! Blare!" sounds so weird, so I used "Boom! Boom! Boom!" instead. Not to be confused with the sound of an explosion. If you can come up with something better, feel free to edit it in. - tenkenX6}
+Dialogue: 0,0:09:21.50,0:09:25.21,InsE - Romaji,,0,0,0,,Just keep on
+Dialogue: 0,0:09:25.21,0:09:28.43,InsE - Romaji,,0,0,0,,Doing what you want
+Dialogue: 0,0:09:29.14,0:09:36.68,InsE - Romaji,,0,0,0,,Just like this, just like that, floating in space
+Comment: 0,0:08:25.32,0:08:27.32,InsE - Translated,,0,0,0,,OP Romaji/ Op Translated
+Dialogue: 0,0:08:27.32,0:08:31.16,InsE - Translated,,0,0,0,,{Woo, staring}Woo, nhìn chằm chằm.
+Dialogue: 0,0:08:31.16,0:08:35.00,InsE - Translated,,0,0,0,,Woo, thì thầm. {whispering}
+Dialogue: 0,0:08:35.00,0:08:38.67,InsE - Translated,,0,0,0,,{I opened the door, and he was sexy!}Em mở cửa ra, và anh ấy thật Sexy làm sao.
+Dialogue: 0,0:08:38.67,0:08:42.34,InsE - Translated,,0,0,0,,{When I turn to look, he's not there}Khi ngoảnh mặt lại nhìn\Nthì anh đã biến mất rồi.
+Dialogue: 0,0:08:42.67,0:08:46.51,InsE - Translated,,0,0,0,,Woo, everywhere
+Dialogue: 0,0:08:46.51,0:08:49.85,InsE - Translated,,0,0,0,,Woo, forever
+Dialogue: 0,0:08:50.22,0:08:54.18,InsE - Translated,,0,0,0,,At the edge of the waves, he's my paradise
+Dialogue: 0,0:08:54.18,0:08:58.19,InsE - Translated,,0,0,0,,When I blink, he's gone
+Dialogue: 0,0:08:58.19,0:09:01.98,InsE - Translated,,0,0,0,,The wondrous Rumic World
+Dialogue: 0,0:09:01.98,0:09:05.95,InsE - Translated,,0,0,0,,Is this the rumored long, long beach?
+Dialogue: 0,0:09:05.95,0:09:09.99,InsE - Translated,,0,0,0,,Don't move
+Dialogue: 0,0:09:09.99,0:09:12.74,InsE - Translated,,0,0,0,,Don't lose your footing
+Dialogue: 0,0:09:13.58,0:09:19.96,InsE - Translated,,0,0,0,,If you smile, you'll see a beautiful barometric map
+Dialogue: 0,0:09:19.96,0:09:21.50,InsE - Translated,,0,0,0,,Boing! Boing! Boing! {This is really supposed the be like the blaring of music or sound, but "Blare! Blare! Blare!" sounds so weird, so I used "Boom! Boom! Boom!" instead. Not to be confused with the sound of an explosion. If you can come up with something better, feel free to edit it in. - tenkenX6}
+Dialogue: 0,0:09:21.50,0:09:25.21,InsE - Translated,,0,0,0,,Just keep on
+Dialogue: 0,0:09:25.21,0:09:28.43,InsE - Translated,,0,0,0,,Doing what you want
+Dialogue: 0,0:09:29.14,0:09:36.68,InsE - Translated,,0,0,0,,Just like this, just like that, floating in space
+Comment: 0,0:09:36.68,0:09:38.68,InsE - Translated,,0,0,0,,OP End
+Dialogue: 0,0:23:23.84,0:23:26.01,InsE - Translated,,0,0,0,,When dawn arrives
+Dialogue: 0,0:23:27.14,0:23:29.35,InsE - Translated,,0,0,0,,I fall asleep
+Dialogue: 0,0:23:30.48,0:23:32.73,InsE - Translated,,0,0,0,,In a world
+Dialogue: 0,0:23:33.77,0:23:36.06,InsE - Translated,,0,0,0,,So strange to me
+Dialogue: 0,0:23:38.48,0:23:43.28,InsE - Translated,,0,0,0,,Everywhere I turn
+Dialogue: 0,0:23:44.99,0:23:49.45,InsE - Translated,,0,0,0,,I only see waves of sand
+Dialogue: 0,0:23:53.96,0:23:56.13,InsE - Translated,,0,0,0,,I long for those days
+Dialogue: 0,0:23:57.25,0:23:59.46,InsE - Translated,,0,0,0,,When I
+Dialogue: 0,0:24:00.30,0:24:02.84,InsE - Translated,,0,0,0,,Was together
+Dialogue: 0,0:24:04.05,0:24:06.22,InsE - Translated,,0,0,0,,With you
+Dialogue: 0,0:24:08.64,0:24:12.89,InsE - Translated,,0,0,0,,Please return the dream
+Dialogue: 0,0:24:15.31,0:24:19.61,InsE - Translated,,0,0,0,,That I entrusted
+Dialogue: 0,0:24:21.99,0:24:29.20,InsE - Translated,,0,0,0,,To you long ago
+Dialogue: 0,0:24:32.08,0:24:38.08,InsE - Translated,,0,0,0,,Our memories are like an oasis
+Dialogue: 0,0:24:38.79,0:24:45.34,InsE - Translated,,0,0,0,,A green lullaby
+Dialogue: 0,0:24:45.34,0:24:52.22,InsE - Translated,,0,0,0,,Run hand in hand through the meadow
+Dialogue: 0,0:24:52.22,0:25:01.73,InsE - Translated,,0,0,0,,You and I will be together forever
+Dialogue: 0,0:25:01.73,0:25:01.73,InsE - Translated,,0,0,0,,
+Comment: 0,0:25:01.73,0:25:03.73,InsE - Translated,,0,0,0,,
 Dialogue: 0,0:45:38.18,0:45:42.76,EdR,,0,0,0,,mune no haato wa doku kinoko
 Dialogue: 0,0:45:42.76,0:45:46.98,EdR,,0,0,0,,shibana ga tonda enerugii
 Dialogue: 0,0:45:47.52,0:45:52.15,EdR,,0,0,0,,umaretsuite no amazonesu
