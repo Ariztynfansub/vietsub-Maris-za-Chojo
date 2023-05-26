@@ -16,9 +16,9 @@ Video File: [Orphan] Maris the Choujo v2 (LD) [8267604D].mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
-Scroll Position: 458
-Active Line: 467
-Video Position: 13371
+Scroll Position: 460
+Active Line: 473
+Video Position: 13930
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -484,38 +484,38 @@ Dialogue: 0,0:08:27.32,0:08:31.16,InsE - Romaji,,0,0,0,,{\k11}{\k72}Woo{\k46} {\
 Dialogue: 0,0:08:31.16,0:08:35.00,InsE - Romaji,,0,0,0,,{\k7}{\k74}Woo{\k38} {\k28}sa{\k28}sa{\k22}ya{\k78}ki {\k109}wa
 Dialogue: 0,0:08:35.00,0:08:38.67,InsE - Romaji,,0,0,0,,{\k6}{\k27}Do{\k21}a {\k27}o {\k21}a{\k17}ke{\k16}ta{\k40}ra{\k23} {\k27}a{\k17}i{\k24}tsu {\k15}wa {\k36}SE{\k50}XY
 Dialogue: 0,0:08:38.67,0:08:42.34,InsE - Romaji,,0,0,0,,{\k24}{\k22}Fu{\k26}ri{\k22}mu{\k26}ki {\k20}za{\k20}ma {\k35}ni{\k23} {\k45}i{\k45}na{\k44}i{\k15}
-Dialogue: 0,0:08:42.67,0:08:46.51,InsE - Romaji,,0,0,0,,Woo, everywhere
-Dialogue: 0,0:08:46.51,0:08:49.85,InsE - Romaji,,0,0,0,,Woo, forever
-Dialogue: 0,0:08:50.22,0:08:54.18,InsE - Romaji,,0,0,0,,At the edge of the waves, he's my paradise
-Dialogue: 0,0:08:54.18,0:08:58.19,InsE - Romaji,,0,0,0,,When I blink, he's gone
-Dialogue: 0,0:08:58.19,0:09:01.98,InsE - Romaji,,0,0,0,,The wondrous Rumic World
-Dialogue: 0,0:09:01.98,0:09:05.95,InsE - Romaji,,0,0,0,,Is this the rumored long, long beach?
-Dialogue: 0,0:09:05.95,0:09:09.99,InsE - Romaji,,0,0,0,,Don't move
-Dialogue: 0,0:09:09.99,0:09:12.74,InsE - Romaji,,0,0,0,,Don't lose your footing
-Dialogue: 0,0:09:13.58,0:09:19.96,InsE - Romaji,,0,0,0,,If you smile, you'll see a beautiful barometric map
-Dialogue: 0,0:09:19.96,0:09:21.50,InsE - Romaji,,0,0,0,,Boing! Boing! Boing! {This is really supposed the be like the blaring of music or sound, but "Blare! Blare! Blare!" sounds so weird, so I used "Boom! Boom! Boom!" instead. Not to be confused with the sound of an explosion. If you can come up with something better, feel free to edit it in. - tenkenX6}
-Dialogue: 0,0:09:21.50,0:09:25.21,InsE - Romaji,,0,0,0,,Just keep on
-Dialogue: 0,0:09:25.21,0:09:28.43,InsE - Romaji,,0,0,0,,Doing what you want
-Dialogue: 0,0:09:29.14,0:09:36.68,InsE - Romaji,,0,0,0,,Just like this, just like that, floating in space
+Dialogue: 0,0:08:42.67,0:08:46.51,InsE - Romaji,,0,0,0,,{\k8}{\k71}Woo{\k49} {\k23}do{\k25}ko {\k24}ma{\k72}de{\k20} {\k51}mo{\k41} {\k0}
+Dialogue: 0,0:08:46.51,0:08:49.85,InsE - Romaji,,0,0,0,,{\k6}{\k73}Woo{\k43} {\k28}tsu{\k22}zu{\k22}i{\k84}te{\k39}ru{\k17}
+Dialogue: 0,0:08:50.22,0:08:54.18,InsE - Romaji,,0,0,0,,{\k16}{\k27}Na{\k20}mi{\k27}u{\k23}chi{\k20}gi{\k23}wa {\k29}de{\k23} {\k24}a{\k26}i{\k25}tsu {\k18}wa {\k30}pa{\k15}ra{\k22}dai{\k13}su{\k15}
+Dialogue: 0,0:08:54.18,0:08:58.19,InsE - Romaji,,0,0,0,,{\k8}{\k28}Ma{\k18}ba{\k26}ta{\k22}ki {\k18}su{\k21}re{\k34}ba{\k26} {\k45}i{\k45}na{\k43}i{\k67}
+Dialogue: 0,0:08:58.19,0:09:01.98,InsE - Romaji,,0,0,0,,{\k15}{\k14}Fu{\k32}shi{\k22}gi{\k18}na {\k22}ma{\k29}de {\k29}no {\k39}Ru{\k26}mic {\k46}World{\k87}
+Dialogue: 0,0:09:01.98,0:09:05.95,InsE - Romaji,,0,0,0,,{\k16}{\k24}Ko{\k28}ko {\k21}wa {\k25}u{\k10}wa{\k39}sa {\k16}no {\k44}Long {\k34}Long {\k41}Beach?{\k99}
+Dialogue: 0,0:09:05.95,0:09:09.07,InsE - Romaji,,0,0,0,,{\k13}{\k60}Na{\k43}ka{\k57}nai{\k109}de {\k30}
+Dialogue: 0,0:09:09.99,0:09:12.74,InsE - Romaji,,0,0,0,,{\k10}{\k48}Te{\k36}re{\k56}nai{\k102}de{\k23}
+Dialogue: 0,0:09:13.58,0:09:19.96,InsE - Romaji,,0,0,0,,{\k31}{\k46}Ho{\k50}ho{\k24}e{\k24}me{\k34}ba{\k14} {\k18}ko{\k31}chi{\k25}ra {\k41}wa {\k41}yu{\k36}ka{\k27}i{\k19}na {\k13}ki{\k9}a{\k25}tsu {\k20}hai{\k13}chi{\k31}zu{\k66}
+Dialogue: 0,0:09:19.96,0:09:21.50,InsE - Romaji,,0,0,0,,{\k14}{\k40}Buin! {\k35}Buin! {\k35}Buin!{\k30}{This is really supposed the be like the blaring of music or sound, but "Blare! Blare! Blare!" sounds so weird, so I used "Boom! Boom! Boom!" instead. Not to be confused with the sound of an explosion. If you can come up with something better, feel free to edit it in. - tenkenX6}
+Dialogue: 0,0:09:21.50,0:09:25.21,InsE - Romaji,,0,0,0,,{\k8}{\k48}Ko{\k49}no {\k40}ma{\k178}ma{\k48}
+Dialogue: 0,0:09:25.21,0:09:28.43,InsE - Romaji,,0,0,0,,{\k13}{\k53}Ki {\k42}no {\k49}ma{\k128}ma{\k37}
+Dialogue: 0,0:09:29.14,0:09:36.68,InsE - Romaji,,0,0,0,,{\k8}{\k22}U{\k77}chuu {\k41}ni {\k29}u{\k50}ka{\k49}bu {\k112}{\k55}yuu {\k37}wa{\k31}ku{\k28}wa{\k19}ku {\k30}wa{\k19}ku{\k24}wa{\k22}ku {\k31}se{\k37}i{\k33}
 Comment: 0,0:08:25.32,0:08:27.32,InsE - Translated,,0,0,0,,OP Romaji/ Op Translated
 Dialogue: 0,0:08:27.32,0:08:31.16,InsE - Translated,,0,0,0,,{Woo, staring}Woo, nhìn chằm chằm.
 Dialogue: 0,0:08:31.16,0:08:35.00,InsE - Translated,,0,0,0,,Woo, thì thầm. {whispering}
 Dialogue: 0,0:08:35.00,0:08:38.67,InsE - Translated,,0,0,0,,{I opened the door, and he was sexy!}Em mở cửa ra, và anh ấy thật Sexy làm sao.
-Dialogue: 0,0:08:38.67,0:08:42.34,InsE - Translated,,0,0,0,,{When I turn to look, he's not there}Khi ngoảnh mặt lại nhìn\Nthì anh đã biến mất rồi.
-Dialogue: 0,0:08:42.67,0:08:46.51,InsE - Translated,,0,0,0,,Woo, everywhere
-Dialogue: 0,0:08:46.51,0:08:49.85,InsE - Translated,,0,0,0,,Woo, forever
-Dialogue: 0,0:08:50.22,0:08:54.18,InsE - Translated,,0,0,0,,At the edge of the waves, he's my paradise
-Dialogue: 0,0:08:54.18,0:08:58.19,InsE - Translated,,0,0,0,,When I blink, he's gone
-Dialogue: 0,0:08:58.19,0:09:01.98,InsE - Translated,,0,0,0,,The wondrous Rumic World
-Dialogue: 0,0:09:01.98,0:09:05.95,InsE - Translated,,0,0,0,,Is this the rumored long, long beach?
-Dialogue: 0,0:09:05.95,0:09:09.99,InsE - Translated,,0,0,0,,Don't move
-Dialogue: 0,0:09:09.99,0:09:12.74,InsE - Translated,,0,0,0,,Don't lose your footing
-Dialogue: 0,0:09:13.58,0:09:19.96,InsE - Translated,,0,0,0,,If you smile, you'll see a beautiful barometric map
-Dialogue: 0,0:09:19.96,0:09:21.50,InsE - Translated,,0,0,0,,Boing! Boing! Boing! {This is really supposed the be like the blaring of music or sound, but "Blare! Blare! Blare!" sounds so weird, so I used "Boom! Boom! Boom!" instead. Not to be confused with the sound of an explosion. If you can come up with something better, feel free to edit it in. - tenkenX6}
-Dialogue: 0,0:09:21.50,0:09:25.21,InsE - Translated,,0,0,0,,Just keep on
-Dialogue: 0,0:09:25.21,0:09:28.43,InsE - Translated,,0,0,0,,Doing what you want
-Dialogue: 0,0:09:29.14,0:09:36.68,InsE - Translated,,0,0,0,,Just like this, just like that, floating in space
-Comment: 0,0:09:36.68,0:09:38.68,InsE - Translated,,0,0,0,,OP End
+Dialogue: 0,0:08:38.67,0:08:42.34,InsE - Translated,,0,0,0,,{When I turn to look, he's not there}Khi ngoảnh mặt lại nhìn thì anh đã biến mất rồi.
+Dialogue: 0,0:08:42.67,0:08:46.51,InsE - Translated,,0,0,0,,Woo, dù có là ở đâu đi nữa.{everywhere}
+Dialogue: 0,0:08:46.51,0:08:49.85,InsE - Translated,,0,0,0,,Woo, cứ kéo dài mãi.{forever}
+Dialogue: 0,0:08:50.22,0:08:54.18,InsE - Translated,,0,0,0,,{At the edge of the waves, he's my paradise}Ở trên bãi biển, \Nanh chính là thiên đường của em.
+Dialogue: 0,0:08:54.18,0:08:58.19,InsE - Translated,,0,0,0,,{When I blink, he's gone}Vừa chớp mắt thôi thì anh đã biến mất rồi.
+Dialogue: 0,0:08:58.19,0:09:01.98,InsE - Translated,,0,0,0,,{The wondrous Rumic World}Thế giới Rumic nhiệm màu.
+Dialogue: 0,0:09:01.98,0:09:05.95,InsE - Translated,,0,0,0,,{Is this the rumored long, long beach?}Đây có phải là Bãi biển Dài Dằng dặc\N mà người ta đồn đại.
+Dialogue: 0,0:09:05.95,0:09:09.07,InsE - Translated,,0,0,0,,Đừng khóc mà.{Don't move}
+Dialogue: 0,0:09:09.99,0:09:12.74,InsE - Translated,,0,0,0,,{Don't lose your footing}Đừng xấu hổ thế chứ.
+Dialogue: 0,0:09:13.58,0:09:19.96,InsE - Translated,,0,0,0,,{If you smile, you'll see a beautiful barometric map}Cười lên rồi bạn sẽ thấy đây là\Nmột tấm bản đồ khí áp dễ chịu.
+Dialogue: 0,0:09:19.96,0:09:21.50,InsE - Translated,,0,0,0,,Ben! Bèn! Ben!{Người hát đang hát "tiếng nhạc" => kiểu như tiếng trống ở việt nam mình hay hát là "tùng tùng cắc tùng ấy"}{This is really supposed the be like the blaring of music or sound, but "Blare! Blare! Blare!" sounds so weird, so I used "Boom! Boom! Boom!" instead. Not to be confused with the sound of an explosion. If you can come up with something better, feel free to edit it in. - tenkenX6}
+Dialogue: 0,0:09:21.50,0:09:25.21,InsE - Translated,,0,0,0,,{Just keep on}Hãy cứ tiếp tục.
+Dialogue: 0,0:09:25.21,0:09:28.43,InsE - Translated,,0,0,0,,{Doing what you want}Làm những gì trái tim ta mách bảo.
+Dialogue: 0,0:09:29.14,0:09:36.68,InsE - Translated,,0,0,0,,{Just like this, just like that, floating in space}Như một ngôi sao năng động trôi nổi trong vũ trụ.
+Comment: 0,0:09:36.68,0:09:38.68,InsE - Translated,,0,0,0,,OP End/Insert song start
 Dialogue: 0,0:23:23.84,0:23:26.01,InsE - Translated,,0,0,0,,When dawn arrives
 Dialogue: 0,0:23:27.14,0:23:29.35,InsE - Translated,,0,0,0,,I fall asleep
 Dialogue: 0,0:23:30.48,0:23:32.73,InsE - Translated,,0,0,0,,In a world
@@ -533,8 +533,7 @@ Dialogue: 0,0:24:32.08,0:24:38.08,InsE - Translated,,0,0,0,,Our memories are lik
 Dialogue: 0,0:24:38.79,0:24:45.34,InsE - Translated,,0,0,0,,A green lullaby
 Dialogue: 0,0:24:45.34,0:24:52.22,InsE - Translated,,0,0,0,,Run hand in hand through the meadow
 Dialogue: 0,0:24:52.22,0:25:01.73,InsE - Translated,,0,0,0,,You and I will be together forever
-Dialogue: 0,0:25:01.73,0:25:01.73,InsE - Translated,,0,0,0,,
-Comment: 0,0:25:01.73,0:25:03.73,InsE - Translated,,0,0,0,,
+Comment: 0,0:25:01.73,0:25:03.73,InsE - Translated,,0,0,0,,Insert song end/Ending start
 Dialogue: 0,0:45:38.18,0:45:42.76,EdR,,0,0,0,,mune no haato wa doku kinoko
 Dialogue: 0,0:45:42.76,0:45:46.98,EdR,,0,0,0,,shibana ga tonda enerugii
 Dialogue: 0,0:45:47.52,0:45:52.15,EdR,,0,0,0,,umaretsuite no amazonesu
@@ -597,6 +596,7 @@ Dialogue: 0,0:48:01.74,0:48:06.45,EdE,,0,0,0,,Poverty! Violence!
 Dialogue: 0,0:48:06.45,0:48:11.20,EdE,,0,0,0,,Love is power!
 Dialogue: 0,0:48:11.20,0:48:15.71,EdE,,0,0,0,,Poverty! Patience!
 Dialogue: 0,0:48:15.71,0:48:21.13,EdE,,0,0,0,,{\fad(0,1000)}Take it all. Big success!
+Comment: 0,0:00:20.14,0:00:22.14,Sign,,0,0,0,,Ending end
 Dialogue: 0,0:00:22.14,0:00:25.35,Sign,,0,0,0,,{\fad(550,1100)\fs50\fnKozuka Mincho Pro H\blur1.2\pos(315,340)\c&H4516F4&}Shogakukan
 Dialogue: 0,0:00:26.05,0:00:31.06,Sign,,0,0,0,,{\an3\fnUVN Van\fs38\pos(201,158.7)\blur0.6}{Production}Sản xuất\N \N
 Dialogue: 1,0:00:26.05,0:00:31.06,Sign,,0,0,0,,{\an1\blur0.6\fnUVN Van\fs38\pos(248,160)\blur0.6}Shogakukan\NStudio Pierrot
