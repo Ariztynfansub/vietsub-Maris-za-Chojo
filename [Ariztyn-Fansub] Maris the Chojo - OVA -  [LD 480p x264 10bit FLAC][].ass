@@ -15,10 +15,10 @@ Audio File: [Orphan] Maris the Choujo v2 (LD) [8267604D].mkv
 Video File: [Orphan] Maris the Choujo v2 (LD) [8267604D].mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
-Video Zoom Percent: 1.000000
-Scroll Position: 301
-Active Line: 307
-Video Position: 43326
+Video Zoom Percent: 0.875000
+Scroll Position: 451
+Active Line: 453
+Video Position: 65583
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -141,15 +141,15 @@ Dialogue: 10,0:11:34.18,0:11:35.59,Default,,0,0,0,,{Hurry up!}Nghe rồi thì l�
 Dialogue: 10,0:11:35.59,0:11:36.18,Default,,0,0,0,,Ờ.{Okay.}
 Dialogue: 10,0:11:36.18,0:11:37.76,Default,,0,0,0,,Tôi ra liền đây.{Be right there.}
 Dialogue: 10,0:11:42.18,0:11:44.10,Default,,0,0,0,,Họ bảo là có chuyện gấp đấy.{They said it was important.}
-Dialogue: 10,0:11:45.56,0:11:48.57,Default,,0,0,0,,{Dad, come here. It's little Maris.}Bố nó ơi! Bố nó ơi! \NNhìn kìa, Maris kìa, Maris kìa!
+Dialogue: 10,0:11:45.56,0:11:48.57,Default,,0,0,0,,{Dad, come here. It's little Maris.}Ba nó ơi! Ba nó ơi! \NNhìn kìa, Maris kìa, Maris kìa!
 Dialogue: 10,0:11:48.57,0:11:52.19,Default,,0,0,0,,Maris, {could you lend us some money?}con cho chúng ta \Nmượn tiền được không?
 Dialogue: 10,0:11:52.19,0:11:53.36,Default,,0,0,0,,{I knew it.}Con biết ngay mà.
 Dialogue: 10,0:11:53.36,0:11:55.53,Default,,0,0,0,,{Well, you see,}Phải rồi, thật ra thì...
 Dialogue: 10,0:11:55.53,0:11:57.24,Default,,0,0,0,,{we're at the supermarket right now,}...bây giờ mẹ với ba đang ở siêu thị.
-Dialogue: 10,0:11:57.24,0:11:59.74,Default,,0,0,0,,{and your father's restraints broke.}Và bộ kháng lực của bố con bị vỡ ấy.
+Dialogue: 10,0:11:57.24,0:11:59.74,Default,,0,0,0,,{and your father's restraints broke.}Và bộ kháng lực của ba con bị vỡ ấy.
 Dialogue: 10,0:11:59.74,0:12:00.95,Default,,0,0,0,,Nè! Nhìn xem!{See! Look!}
 Dialogue: 10,0:12:00.95,0:12:02.08,Default,,0,0,0,,Thấy chưa?{See this?}
-Dialogue: 10,0:12:02.91,0:12:06.21,Default,,0,0,0,,Bố con khi đó đang say khước, nên không hề nhận ra.{He was drunk, so he didn't realize it.}
+Dialogue: 10,0:12:02.91,0:12:06.21,Default,,0,0,0,,Ba con khi đó đang say khước, nên không hề nhận ra.{He was drunk, so he didn't realize it.}
 Dialogue: 10,0:12:06.21,0:12:11.67,Default,,0,0,0,,{But when he leaned on the shelf... see what happened?}Rồi ổng dựa vào cái kệ của siêu thị và rồi... ừm thì con thấy đấy.
 Dialogue: 10,0:12:12.72,0:12:13.92,Default,,0,0,0,,Rồi sao?{And so?}
 Dialogue: 10,0:12:13.92,0:12:17.47,Default,,0,0,0,,{Someone better pay for the damages, or I'm calling the police!}Nếu không ai trả chi phí \Nđèn bù thiệt hại thì tôi sẽ báo công an!
@@ -210,8 +210,8 @@ Dialogue: 10,0:16:10.79,0:16:14.96,Default,,0,0,0,,{The kidnappers sent us these
 Dialogue: 10,0:16:16.79,0:16:17.92,Default,,0,0,0,,{He's cheerful.}Phởn thế!
 Dialogue: 10,0:16:25.97,0:16:30.10,Default,,0,0,0,,{Um... These were taken after\N he was kidnapped, right?}Ưm... mấy bức hình này được chụp \Nsau khi cậu ta bị bắt cóc, phải không?
 Dialogue: 10,0:16:30.10,0:16:34.18,Default,,0,0,0,,{Strangely happy, isn't he?}Đúng là một anh chàng trẻ có dũng khí, \Nkhông nề hà gì cả đúng không?
-Dialogue: 10,0:16:34.18,0:16:37.44,Default,,0,0,0,,{That's probably because his father is a billionaire.}Cũng phải thôi, vì bố cậu ta\N cũng là một triệu phú tầm cỡ mà.
-Dialogue: 10,0:16:37.44,0:16:38.52,Default,,0,0,0,,Triệu phú tầm cỡ á?{A billionaire?}
+Dialogue: 10,0:16:34.18,0:16:37.44,Default,,0,0,0,,{That's probably because his father is a billionaire.}Cũng phải thôi, vì ba cậu ta\N cũng là một tỷ phú tầm cỡ mà.
+Dialogue: 10,0:16:37.44,0:16:38.52,Default,,0,0,0,,Tỷ phú tầm cỡ á?{A billionaire?}
 Dialogue: 10,0:16:38.52,0:16:40.86,Default,,0,0,0,,{He's Koganemaru,\N son of Matsushita Sanchi.}Cậu ta là Kaganemaru-kun,\Ncon trai của Matsushita Sanchi.
 Dialogue: 10,0:16:42.36,0:16:43.74,Default,,0,0,0,,Matsushita?!
 Dialogue: 10,0:16:43.74,0:16:45.86,Default,,0,0,0,,Chẳng phải đó là \Nngười giàu nhất thiên hà sao?!{He's the richest person in the galaxy!}
@@ -220,7 +220,7 @@ Dialogue: 10,0:16:48.66,0:16:51.12,Default,,0,0,0,,{Please wait for me, Koganema
 Dialogue: 10,0:16:51.12,0:16:54.12,Default,,0,0,0,,Em nhất định sẽ tới cứu anh~{I'm coming to rescue you.}
 Dialogue: 10,0:16:54.12,0:16:55.96,Default,,0,0,0,,{What are you thinking}Cô đang mơ tưởng cái gì đấy, Maris?
 Dialogue: 10,0:16:55.96,0:16:57.88,Default,,0,0,0,,Cậu cũng nghe rồi chứ, Murphy?{Didn't you hear, Murphy?}
-Dialogue: 10,0:16:57.88,0:16:59.96,Default,,0,0,0,,{He's the son of a billionaire!}Anh ấy là con của một triệu phú đấy!
+Dialogue: 10,0:16:57.88,0:16:59.96,Default,,0,0,0,,{He's the son of a billionaire!}Anh ấy là con của một tỷ phú đấy!
 Dialogue: 10,0:17:00.46,0:17:02.63,Default,,0,0,0,,Anh nợ em mạng sống này.{You saved my life.}
 Dialogue: 10,0:17:02.63,0:17:03.67,Default,,0,0,0,,Xin hãy kết hôn với anh.{Please marry me.}
 Dialogue: 10,0:17:03.67,0:17:04.55,Default,,0,0,0,,{Yup.}Em đồng ý.
@@ -228,7 +228,7 @@ Dialogue: 10,0:17:05.17,0:17:07.01,Default,,0,0,0,,Maris yêu dấu của anh.{M
 Dialogue: 10,0:17:08.26,0:17:10.05,Default,,0,0,0,,Vâng~{Yup.}
 Dialogue: 10,0:17:34.66,0:17:36.50,Default,,0,0,0,,{I slave away for a pitiful salary.}Làm nô lệ cho đồng lương tháng ít ỏi.
 Dialogue: 10,0:17:36.50,0:17:38.37,Default,,0,0,0,,Phải làm thêm trong kỳ nghỉ phép.{I do part-time jobs on vacations.}
-Dialogue: 10,0:17:38.37,0:17:41.13,Default,,0,0,0,,{Dad's an alcoholic,\N and Mom's an airhead!}Bố là một con sâu rượu,\Nmẹ thì khờ khạo!
+Dialogue: 10,0:17:38.37,0:17:41.13,Default,,0,0,0,,{Dad's an alcoholic,\N and Mom's an airhead!}Ba là một con sâu rượu,\Nmẹ thì khờ khạo!
 Dialogue: 10,0:17:41.13,0:17:44.09,Default,,0,0,0,,{And I have to wear these stupid restraints because of my power!}Rồi còn phải mặc \Ncái bộ kháng lực phiền toái này!
 Dialogue: 10,0:17:44.09,0:17:45.67,Default,,0,0,0,,Tuổi trẻ của mình...{My youth is...}
 Dialogue: 10,0:17:45.67,0:17:47.93,Default,,0,0,0,,{wasting away!}đang bị lãng phí!
@@ -241,11 +241,11 @@ Dialogue: 10,0:18:01.81,0:18:03.88,Default,,0,0,0,,Tôi rất lấy làm tiếc,
 Dialogue: 0,0:18:03.88,0:18:04.49,Default,,0,0,0,,Hả?!
 Dialogue: 10,0:18:05.07,0:18:07.11,Default,,0,0,0,,{We come from two different worlds.}Chúng ta khác nhau về vị thế.
 Dialogue: 10,0:18:07.11,0:18:08.65,Default,,0,0,0,,{I want a graceful girl,}Tôi muốn một cô gái thuỳ mị,
-Dialogue: 10,0:18:08.65,0:18:10.36,Default,,0,0,0,,{not some barbarian from Thanatos!}chứ không phải người Thanatos man rợ! 
+Dialogue: 10,0:18:08.65,0:18:10.36,Default,,0,0,0,,{not some barbarian from Thanatos!}chứ không phải người Thanatos man rợ!
 Dialogue: 10,0:18:10.36,0:18:12.70,Default,,0,0,0,,{You're just greedy pigs with fat thighs!}Cô chỉ là một con lợn tham lam với bắp đùi béo!
 Dialogue: 10,0:18:12.70,0:18:15.37,Default,,0,0,0,,{It would never work.}Không đời nào có chuyện hai ta thành đôi.
 Dialogue: 10,0:18:15.37,0:18:18.37,Default,,0,0,0,,{This isn't really what I prefer.}Anh ta cũng không thật sự là kiểu mà mình thích.
-Dialogue: 10,0:18:18.37,0:18:21.00,Default,,0,0,0,,{You bastard! Stop using that stupid power!}Tên khốn này! Thôi dùng \Ncái năng lực ngu ngốc đó đi! 
+Dialogue: 10,0:18:18.37,0:18:21.00,Default,,0,0,0,,{You bastard! Stop using that stupid power!}Tên khốn này! Thôi dùng \Ncái năng lực ngu ngốc đó đi!
 Dialogue: 10,0:18:29.93,0:18:31.26,Default,,0,0,0,,Phi thuyền của địch đang tiếp cận.{The enemy ship approaches.}
 Dialogue: 10,0:18:33.80,0:18:35.76,Default,,0,0,0,,Chuyện này là sao hả, Sue-chan?{What's the meaning of this, Sue?}
 Dialogue: 10,0:18:35.76,0:18:40.64,Default,,0,0,0,,{Didn't I tell you to write "Do not contact the police" in the ransom letter?}Chẳng phải tôi đã bảo phải viết\N "Đừng báo công an" trong thư tống tiền rồi sao?
@@ -341,154 +341,162 @@ Dialogue: 10,0:29:18.53,0:29:19.53,Default,,0,0,0,,Đi thôi, Murphy.{Let's go, 
 Dialogue: 10,0:29:19.53,0:29:20.37,Default,,0,0,0,,Rõ.{Roger.}
 Dialogue: 10,0:29:22.24,0:29:24.29,Default,,0,0,0,,Khoan đã, Murphy. Có cuộc gọi khẩn cấp kìa.{Wait, Murphy. It's an emergency call.}
 Dialogue: 10,0:29:24.30,0:29:28.04,Default,,0,0,0,,{I'm so sorry, Maris, but we need to borrow some more money.}Xin lỗi con nhé, Maris. Có vẻ ba mẹ\N lại phải mượn con tiền nữa rồi.
-Dialogue: 10,0:29:28.04,0:29:30.96,Default,,0,0,0,,{We're at the restraint store.\N You can tell, right?}
-Dialogue: 10,0:29:30.96,0:29:31.67,Default,,0,0,0,,And?
-Dialogue: 10,0:29:31.67,0:29:33.84,Default,,0,0,0,,Your father stopped\N for a few teensy drinks.
-Dialogue: 10,0:29:33.84,0:29:36.17,Default,,0,0,0,,I had the wallet,
-Dialogue: 10,0:29:36.17,0:29:39.51,Default,,0,0,0,,but I looked away for a second. I'm sick and tired of this{\fscx300}-
-Dialogue: 10,0:29:49.35,0:29:51.23,Default,,0,0,0,,Father, Mother...
-Dialogue: 10,0:29:51.23,0:29:52.69,Default,,0,0,0,,Hold on.
-Dialogue: 10,0:29:52.69,0:29:56.94,Default,,0,0,0,,I'll get rich and buy you a planet\Nwhere you won't need restraints.
-Dialogue: 10,0:29:56.94,0:29:59.24,Default,,0,0,0,,Murphy! Let's go!
-Dialogue: 10,0:30:36.11,0:30:38.24,Default,,0,0,0,,We're here, we're here!
-Dialogue: 10,0:30:38.24,0:30:40.82,Default,,0,0,0,,Maris, doesn't this seem suspicious?
-Dialogue: 10,0:30:40.82,0:30:43.87,Default,,0,0,0,,Isn't it odd that we could infiltrate this place so easily?
-Dialogue: 10,0:30:43.87,0:30:46.83,Default,,0,0,0,,I'll save you soon, my prince!
-Dialogue: 10,0:30:47.16,0:30:49.00,Default,,0,0,0,,I'm yours! I'm yours!
-Dialogue: 10,0:30:49.00,0:30:51.00,Default,,0,0,0,,We're right in front of their base!
-Dialogue: 10,0:30:54.13,0:30:57.45,Default,,0,0,0,,I'm all yours. Now, please give me some money!
-Dialogue: 10,0:30:57.45,0:30:59.17,Default,,0,0,0,,Huh? Did you say something?
-Dialogue: 10,0:30:59.17,0:31:00.38,Default,,0,0,0,,Don't talk to me!
-Dialogue: 10,0:31:00.38,0:31:04.10,Default,,0,0,0,,I'm contemplating whether I should ever say anything serious to you again!
-Dialogue: 10,0:31:35.84,0:31:38.17,Default,,0,0,0,,Maris, I've always loved you!
-Dialogue: 10,0:31:38.17,0:31:40.34,Default,,0,0,0,,Stop acting like an idiot\N at a time like this!
-Dialogue: 10,0:31:40.34,0:31:43.84,Default,,0,0,0,,Welcome to Moroi,\N Miss Special Police.
-Dialogue: 10,0:31:45.09,0:31:46.26,Default,,0,0,0,,Who are you?
-Dialogue: 10,0:31:46.26,0:31:48.43,Default,,0,0,0,,My welcoming committee\N is waiting outside.
-Dialogue: 10,0:31:49.14,0:31:52.77,Default,,0,0,0,,Oh, don't do anything stupid, or the hostage will die.
-Dialogue: 10,0:31:56.52,0:31:58.07,Default,,0,0,0,,Throw down your weapons\N and come out.
-Dialogue: 10,0:31:58.52,0:32:00.40,Default,,0,0,0,,Put up your hands.
-Dialogue: 10,0:32:00.40,0:32:01.57,Default,,0,0,0,,Hurry up!
-Dialogue: 10,0:32:09.29,0:32:12.75,Default,,0,0,0,,Half the landing gear\N is completely ruined.
-Dialogue: 10,0:32:13.54,0:32:14.54,Default,,0,0,0,,Big...
-Dialogue: 10,0:32:17.63,0:32:18.92,Default,,0,0,0,,Wh-What's this?
-Dialogue: 10,0:32:18.92,0:32:21.46,Default,,0,0,0,,A remote-control lock.\N You can't remove your restraints.
-Dialogue: 10,0:32:21.46,0:32:23.51,Default,,0,0,0,,Now, should we go?
-Dialogue: 10,0:32:31.77,0:32:34.81,Default,,0,0,0,,Wow! A prefab Earth base.
-Dialogue: 10,0:32:34.81,0:32:35.94,Default,,0,0,0,,Looks flimsy.
-Dialogue: 10,0:32:35.94,0:32:36.94,Default,,0,0,0,,Ancient.
-Dialogue: 10,0:32:36.94,0:32:38.23,Default,,0,0,0,,Don't underestimate it.
-Dialogue: 10,0:32:38.23,0:32:39.57,Default,,0,0,0,,It's efficient.
-Dialogue: 10,0:32:39.57,0:32:40.90,Default,,0,0,0,,Yeah, right.
-Dialogue: 10,0:32:40.90,0:32:42.24,Default,,0,0,0,,Hurry up and go inside!
-Dialogue: 10,0:32:48.53,0:32:50.12,Default,,0,0,0,,I see. An execution, huh?
-Dialogue: 10,0:32:50.12,0:32:51.70,Default,,0,0,0,,Yeah, and I have the perfect method.
-Dialogue: 10,0:32:51.70,0:32:54.91,Default,,0,0,0,,I'll kill her so cruelly that\N the Space Police will get scared.
-Dialogue: 10,0:32:54.91,0:32:56.08,Default,,0,0,0,,Want to watch?
-Dialogue: 10,0:32:56.08,0:32:59.96,Default,,0,0,0,,I have no need to watch a hawk devour an insignificant baby sparrow.
-Dialogue: 10,0:33:00.29,0:33:01.71,Default,,0,0,0,,If you say so.
-Dialogue: 10,0:33:01.71,0:33:02.84,Default,,0,0,0,,Good luck.
-Dialogue: 10,0:33:04.72,0:33:09.10,Default,,0,0,0,,It seems your last hope has been snuffed out, Koganemaru.
-Dialogue: 10,0:33:09.97,0:33:11.64,Default,,0,0,0,,Here's your dinner, Koganemaru!
-Dialogue: 10,0:33:15.48,0:33:17.40,Default,,0,0,0,,You don't look well.
-Dialogue: 10,0:33:24.19,0:33:26.70,Default,,0,0,0,,What do you plan to do with me in a place like this?
-Dialogue: 10,0:33:26.70,0:33:30.83,Default,,0,0,0,,With restraints on, a Thanatosian is as weak as an Earthling.
-Dialogue: 10,0:33:30.83,0:33:32.83,Default,,0,0,0,,I'm only strength 3.
-Dialogue: 10,0:33:32.83,0:33:35.83,Default,,0,0,0,,Normally, I could never\N beat a Thanatosian.
+Dialogue: 10,0:29:28.04,0:29:30.96,Default,,0,0,0,,{We're at the restraint store.\N You can tell, right?}Bây giờ chúng ta đang ở cửa hàng\N bán bộ kháng lực. Con cũng thấy rồi nhỉ?
+Dialogue: 10,0:29:30.96,0:29:31.67,Default,,0,0,0,,Rồi sao?{And?}
+Dialogue: 10,0:29:31.67,0:29:33.84,Default,,0,0,0,,{Your father stopped\N for a few teensy drinks.}Ba con lại uống vài ly nữa rồi.
+Dialogue: 10,0:29:33.84,0:29:36.17,Default,,0,0,0,,{I had the wallet,}Dù mẹ là người giữ ví tiền,
+Dialogue: 10,0:29:36.17,0:29:39.51,Default,,0,0,0,,{but I looked away for a second. I'm sick and tired of this}Nhưng mẹ mới chỉ rời mắt khỏi nó \Nmột chút thôi thì thế đấy{\fscx300}-
+Dialogue: 10,0:29:49.35,0:29:51.23,Default,,0,0,0,,Ba, mẹ...{Father, Mother...}
+Dialogue: 10,0:29:51.23,0:29:52.69,Default,,0,0,0,,Đợi con nhé.{Hold on.}
+Dialogue: 10,0:29:52.69,0:29:54.81,Default,,0,0,0,,{I'll get rich and buy you a planet\Nwhere you won't need restraints.}Con sẽ giàu có và \Nmua tặng ba mẹ một hành tinh,
+Dialogue: 10,0:29:54.81,0:29:56.94,Default,,0,0,0,,{I'll get rich and buy you a planet\Nwhere you won't need restraints.}nơi mọi người \Nkhông phải mặc bộ kháng lực nữa.
+Dialogue: 10,0:29:56.94,0:29:59.24,Default,,0,0,0,,Murphy! {Let's go!}Lên đường thôi!
+Dialogue: 10,0:30:36.11,0:30:38.24,Default,,0,0,0,,{We're here, we're here!}Tới rồi! Tới được rồi!
+Dialogue: 10,0:30:38.24,0:30:40.58,Default,,0,0,0,,Maris, bộ cô không thấy lạ sao?{doesn't this seem suspicious?}
+Dialogue: 10,0:30:40.65,0:30:44.09,Default,,0,0,0,,{Isn't it odd that we could infiltrate this place so easily?}Cô không nghĩ việc ta có thể thâm nhập vào đây dễ dàng như vậy, không phải rất lạ sao?
+Dialogue: 10,0:30:44.10,0:30:46.64,Default,,0,0,0,,{I'll save you soon, my prince!}Em sẽ cứu anh sớm thôi, hoàng tử!
+Dialogue: 10,0:30:47.02,0:30:49.00,Default,,0,0,0,,Em là của anh! Của riêng anh thôi!{I'm yours! I'm yours!}
+Dialogue: 10,0:30:49.00,0:30:51.41,Default,,0,0,0,,{We're right in front of their base!}Chúng ta đang\N ở trước mặt căn cứ của địch đấy!
+Dialogue: 10,0:30:54.13,0:30:57.45,Default,,0,0,0,,{I'm all yours. Now, please give me some money!}Em là của anh. Nên cho em tiền anh nhá!
+Dialogue: 10,0:30:57.45,0:30:59.17,Default,,0,0,0,,Hửm? Cậu vừa nói gì cơ?{Huh? Did you say something?}
+Dialogue: 10,0:30:59.17,0:31:00.38,Default,,0,0,0,,{Don't talk to me!}Đừng có nói tới tuồng mặt tôi!
+Dialogue: 10,0:31:00.38,0:31:04.10,Default,,0,0,0,,{I'm contemplating whether I should ever say anything serious to you again!}Tôi đang suy nghĩ xem có nên bàn mấy chuyện\N nghiêm túc với cô lần nào nữa không!
+Dialogue: 10,0:31:35.84,0:31:38.17,Default,,0,0,0,,Maris, anh đã luôn yêu em!{I've always loved you!}
+Dialogue: 10,0:31:38.17,0:31:40.34,Default,,0,0,0,,Đừng có đùa vào mấy lúc thế này!{Stop acting like an idiot\N at a time like this!}
+Dialogue: 10,0:31:40.34,0:31:43.84,Default,,0,0,0,,{Welcome to Moroi,\N Miss Special Police.}Chào mừng cô đến Moroi,\NQuý cô Cảnh sát Đặc nhiệm.
+Dialogue: 10,0:31:45.09,0:31:46.26,Default,,0,0,0,,Ngươi là ai?{Who are you?}
+Dialogue: 10,0:31:46.26,0:31:48.43,Default,,0,0,0,,{My welcoming committee\N is waiting outside.}Đoàn tiếp đón của ta\N đang chờ cô ở ngoài đấy.
+Dialogue: 10,0:31:49.14,0:31:52.77,Default,,0,0,0,,{Oh, don't do anything stupid, or the hostage will die.}Ồ, với đừng có giở trò ngu ngốc gì đó, \Nkhông thì con tin sẽ chết đấy.
+Dialogue: 10,0:31:56.52,0:31:58.07,Default,,0,0,0,,{Throw down your weapons\N and come out.}Vứt vũ khí, và bước ra đi.
+Dialogue: 10,0:31:58.52,0:32:00.40,Default,,0,0,0,,{Put up your hands.}Cứ giơ tay lên như thế và bước ra đi.
+Dialogue: 10,0:32:00.40,0:32:01.57,Default,,0,0,0,,Lẹ lên!{Hurry up!}
+Dialogue: 10,0:32:09.29,0:32:12.75,Default,,0,0,0,,{Half the landing gear\N is completely ruined.}Tệ rồi đây, phân nửa bộ hạ cánh đi tong cả rồi.
+Dialogue: 10,0:32:13.54,0:32:14.54,Default,,0,0,0,,Bự thế...{Big...}
+Dialogue: 10,0:32:17.63,0:32:18.92,Default,,0,0,0,,C-Cái gì đây hả?{Wh-What's this?}
+Dialogue: 10,0:32:18.92,0:32:21.46,Default,,0,0,0,,{A remote-control lock.\N You can't remove your restraints.}Một cái khoá điều khiển từ xa.\NĐể ngăn cô mở bộ kháng lực ra.
+Dialogue: 10,0:32:21.46,0:32:23.51,Default,,0,0,0,,Nào, ta đi thôi chứ?{Now, should we go?}
+Dialogue: 10,0:32:31.77,0:32:34.81,Default,,0,0,0,,{Wow! A prefab Earth base.}Quào! Một căn cứ tiền chế của Trái Đất kìa.
+Dialogue: 10,0:32:34.81,0:32:36.00,Default,,0,0,0,,{Looks flimsy.}Tồi tàn ghê.
+Dialogue: 10,0:32:36.01,0:32:36.94,Default,,0,0,0,,{Ancient.}Cổ lỗ sĩ.
+Dialogue: 10,0:32:36.94,0:32:38.23,Default,,0,0,0,,Đừng có coi thường nó.{Don't underestimate it.}
+Dialogue: 10,0:32:38.23,0:32:39.57,Default,,0,0,0,,{It's efficient.}Coi vậy chứ nó hữu dụng lắm đấy.
+Dialogue: 10,0:32:39.57,0:32:40.90,Default,,0,0,0,,{Yeah, right.}Ờ, phải phải.
+Dialogue: 10,0:32:40.90,0:32:42.24,Default,,0,0,0,,{Hurry up and go inside!}Mau vào trong đi!
+Dialogue: 10,0:32:48.53,0:32:50.12,Default,,0,0,0,,{I see. An execution, huh?}Hiểu rồi. Hành quyết sao?
+Dialogue: 10,0:32:50.12,0:32:51.70,Default,,0,0,0,,{Yeah, and I have the perfect method.}Phải, tôi có một cách rất thú vị đấy.
+Dialogue: 10,0:32:51.70,0:32:54.91,Default,,0,0,0,,{I'll kill her so cruelly that\N the Space Police will get scared.}Tôi sẽ giết cô ấy thật tàn ác đến nỗi\N Cảnh sát Đặc nhiệm sẽ phải khiếp đảm
+Dialogue: 10,0:32:54.91,0:32:56.08,Default,,0,0,0,,Anh muốn xem chứ?{Want to watch?}
+Dialogue: 10,0:32:56.08,0:32:59.96,Default,,0,0,0,,{I have no need to watch a hawk devour an insignificant baby sparrow.}Ta không cần phải xem cảnh \Nmột con chim sẻ bị diều hâu hành quyết làm gì.
+Dialogue: 10,0:33:00.29,0:33:01.71,Default,,0,0,0,,{If you say so.}Thế thì tuỳ anh.
+Dialogue: 10,0:33:01.71,0:33:02.84,Default,,0,0,0,,Cố lên đấy.{Good luck.}
+Dialogue: 10,0:33:04.72,0:33:09.10,Default,,0,0,0,,{It seems your last hope has been snuffed out, Koganemaru.}Koganemaru-kun có vẻ như tia hi vọng\N của ngươi đã bị dập tắt rồi nhỉ?
+Dialogue: 10,0:33:09.97,0:33:11.64,Default,,0,0,0,,{Here's your dinner, Koganemaru!}Koganemaru, đồ ăn của ngươi này!
+Dialogue: 10,0:33:15.48,0:33:17.40,Default,,0,0,0,,{You don't look well.}Trông ngươi không khoẻ mấy nhỉ?
+Dialogue: 10,0:33:24.19,0:33:26.70,Default,,0,0,0,,{What do you plan to do with me in a place like this?}Cô định làm gì với tôi ở đây hả?
+Dialogue: 10,0:33:26.70,0:33:30.83,Default,,0,0,0,,{With restraints on, a Thanatosian is as weak as an Earthling.}Với bộ kháng lực, thì một Thanatos\N cũng chỉ yếu như một người Trái Đất thôi.
+Dialogue: 10,0:33:30.83,0:33:32.83,Default,,0,0,0,,{I'm only strength 3.}Bộ kháng lực của tôi chỉ ở mức 3 thôi.
+Dialogue: 10,0:33:32.83,0:33:35.83,Default,,0,0,0,,{Normally, I could never\N beat a Thanatosian.}Bình thường thì tôi sẽ \Nkhông thể đánh bại được người Thanatos.
 Dialogue: 10,0:33:36.87,0:33:38.33,Default,,0,0,0,,Maris.
-Dialogue: 10,0:33:49.01,0:33:53.01,Default,,0,0,0,,Keep in mind that if you interfere, not even your bones will remain.
-Dialogue: 10,0:33:56.56,0:34:00.31,Default,,0,0,0,,It's no use. You need the remote control I'm holding to remove it.
-Dialogue: 10,0:34:00.31,0:34:01.90,Default,,0,0,0,,Dammit!
+Dialogue: 10,0:33:48.81,0:33:49.87,Default,,0,0,0,,{Keep in mind that if you interfere, not even your bones will remain.}Nói trước, nếu dám can thiệp,
+Dialogue: 10,0:33:49.88,0:33:53.01,Default,,0,0,0,,{Keep in mind that if you interfere, not even your bones will remain.}thì không chỉ cái mạng mà cả\N xương ngươi cũng sẽ không còn nữa đâu.
+Dialogue: 10,0:33:56.56,0:34:00.31,Default,,0,0,0,,{It's no use. You need the remote control I'm holding to remove it.}Vô dụng thôi. Cô cần bộ điều khiển \Nmà tôi đang giữ thì mới tháo nó ra được.
+Dialogue: 10,0:34:00.31,0:34:01.90,Default,,0,0,0,,Khốn kiếp!{Dammit!}
 Dialogue: 10,0:34:07.03,0:34:08.36,Default,,0,0,0,,Maris!
-Dialogue: 10,0:34:14.74,0:34:16.45,Default,,0,0,0,,I'm going to kill you slowly.
-Dialogue: 10,0:34:16.45,0:34:18.71,Default,,0,0,0,,How dirty! And you call\N yourself a human?!
-Dialogue: 10,0:34:19.67,0:34:21.25,Default,,0,0,0,,Being poor is to blame!
-Dialogue: 10,0:34:21.25,0:34:22.34,Default,,0,0,0,,Here I come!
-Dialogue: 10,0:34:22.34,0:34:23.90,Default,,0,0,0,,Don't use being poor as an excuse!{false i-frame}
-Dialogue: 10,0:34:24.67,0:34:27.01,Default,,0,0,0,,I'm poor too, you know!
-Dialogue: 10,0:34:38.48,0:34:40.35,Default,,0,0,0,,Dammit!
-Dialogue: 10,0:35:04.75,0:35:07.51,Default,,0,0,0,,I gotta hurry over to the ropes.
-Dialogue: 10,0:35:08.34,0:35:10.63,Default,,0,0,0,,Time out! Time out!
+Dialogue: 10,0:34:14.74,0:34:16.45,Default,,0,0,0,,{I'm going to kill you slowly.}Tôi sẽ giết cô thật từ tốn.
+Dialogue: 10,0:34:16.45,0:34:18.71,Default,,0,0,0,,{How dirty! And you call\N yourself a human?!}Thật hèn hạ! \NCô có còn là con người không?
+Dialogue: 10,0:34:19.67,0:34:21.25,Default,,0,0,0,,{Being poor is to blame!}Có trách thì trách cái nghèo ấy!
+Dialogue: 10,0:34:21.25,0:34:22.40,Default,,0,0,0,,Tiếp chiêu!{Here I come!}
+Dialogue: 10,0:34:22.41,0:34:23.90,Default,,0,0,0,,{Don't use being poor as an excuse!}{false i-frame}Đừng có đổ tại cái nghèo!
+Dialogue: 10,0:34:24.67,0:34:27.01,Default,,0,0,0,,{I'm poor too, you know!}Tôi cũng nghèo mà!
+Dialogue: 10,0:34:38.48,0:34:40.35,Default,,0,0,0,,Khốn kiếp!{Dammit!}
+Dialogue: 10,0:35:04.75,0:35:07.51,Default,,0,0,0,,{I gotta hurry over to the ropes.}Chút nữa, xíu nữa thôi.
+Dialogue: 10,0:35:08.34,0:35:10.63,Default,,0,0,0,,Chạm dây! Tôi chạm dây rồi má!{Time out! Time out!}
 Dialogue: 10,0:35:23.60,0:35:25.65,Default,,0,0,0,,Maris...
-Dialogue: 10,0:36:41.60,0:36:42.64,Default,,0,0,0,,Dammit!
-Dialogue: 10,0:36:44.02,0:36:45.14,Default,,0,0,0,,You bitch.
-Dialogue: 10,0:37:13.71,0:37:18.22,Default,,0,0,0,,Which one's real? Which one's real?\N Which one's real?
-Dialogue: 10,0:37:18.22,0:37:24.35,Default,,0,0,0,,Which one's real? Which one's real?\N Which one's real?
-Dialogue: 10,0:37:24.35,0:37:25.60,Default,,0,0,0,,It's you.
+Dialogue: 10,0:36:41.60,0:36:42.64,Default,,0,0,0,,Khốn kiếp!{Dammit!}
+Dialogue: 10,0:36:44.02,0:36:45.14,Default,,0,0,0,,Con khốn này...{You bitch.}
+Dialogue: 10,0:37:13.71,0:37:18.22,Default,,0,0,0,,{Which one's real? Which one's real?\N Which one's real?}Ai là thật? Ai là thật? Ai là thật?
+Dialogue: 10,0:37:18.22,0:37:24.35,Default,,0,0,0,,{Which one's real? Which one's real?\N Which one's real?}Ai là thật? Ai là thật? Ai là thật?
+Dialogue: 10,0:37:24.35,0:37:25.60,Default,,0,0,0,,{It's you.}Là ngươi.
 Dialogue: 10,0:37:26.27,0:37:27.39,Default,,0,0,0,,Maris!
-Dialogue: 10,0:37:32.36,0:37:34.94,Thought,,0,0,0,,It's the remote control.
-Dialogue: 10,0:37:49.83,0:37:52.46,Default,,0,0,0,,I can't reach it!
-Dialogue: 10,0:37:52.46,0:37:54.92,Default,,0,0,0,,She'll be dead before you can get it.
-Dialogue: 10,0:38:09.69,0:38:11.86,Default,,0,0,0,,A bit more. A bit more.
-Dialogue: 10,0:38:14.69,0:38:15.82,Default,,0,0,0,,Oh, dammit!
-Dialogue: 10,0:38:27.50,0:38:30.04,Default,,0,0,0,,Why, you...
-Dialogue: 10,0:38:47.52,0:38:50.94,Default,,0,0,0,,It fell! It fell down!
-Dialogue: 10,0:38:53.02,0:38:54.02,Default,,0,0,0,,Almost...
-Dialogue: 10,0:39:05.70,0:39:07.41,Default,,0,0,0,,Got it!
-Dialogue: 10,0:39:07.41,0:39:09.00,Default,,0,0,0,,I did it!
-Dialogue: 10,0:39:11.96,0:39:13.17,Default,,0,0,0,,They came off!
-Dialogue: 10,0:39:39.40,0:39:40.74,Default,,0,0,0,,Wh-What are you doing?
-Dialogue: 10,0:39:40.74,0:39:41.90,Default,,0,0,0,,Hey, wait!
-Dialogue: 10,0:39:41.90,0:39:43.99,Default,,0,0,0,,How about this!
-Dialogue: 10,0:39:55.21,0:39:58.21,Default,,0,0,0,,Stop it! Don't break it. Please!
-Dialogue: 10,0:39:58.21,0:40:00.38,Default,,0,0,0,,Stop! Please, stop!
-Dialogue: 10,0:40:00.38,0:40:02.26,Default,,0,0,0,,Shut up!
-Dialogue: 10,0:40:09.14,0:40:10.81,Default,,0,0,0,,Hold it!
-Dialogue: 10,0:40:14.35,0:40:15.81,Default,,0,0,0,,You're the boss of the kidnappers!
-Dialogue: 10,0:40:15.81,0:40:17.15,Default,,0,0,0,,Indeed.
-Dialogue: 10,0:40:17.15,0:40:17.94,Default,,0,0,0,,Money...
-Dialogue: 10,0:40:17.94,0:40:19.82,Default,,0,0,0,,I mean, give back the hostage!
-Dialogue: 10,0:40:19.82,0:40:20.90,Default,,0,0,0,,I can't do that.
-Dialogue: 10,0:40:20.90,0:40:23.03,Default,,0,0,0,,We'll die with our fortress.
-Dialogue: 10,0:40:23.03,0:40:24.91,Default,,0,0,0,,I'm taking you and the hostage with us!
-Dialogue: 10,0:40:26.41,0:40:30.45,Default,,0,0,0,,You can stop that now.\N I've already given up.
-Dialogue: 10,0:40:30.45,0:40:31.66,Default,,0,0,0,,But why?
-Dialogue: 10,0:40:31.95,0:40:34.62,Default,,0,0,0,,She wrecked my base!\N What am I supposed to do now?!
-Dialogue: 10,0:40:35.00,0:40:38.34,Default,,0,0,0,,Are you sure you really want to stop?
-Dialogue: 10,0:40:43.76,0:40:45.18,Default,,0,0,0,,How boring.
-Dialogue: 10,0:40:45.18,0:40:46.64,Default,,0,0,0,,Koganemaru!
-Dialogue: 10,0:40:48.18,0:40:51.52,Default,,0,0,0,,Are you surprised? Miss Specto... uh...
-Dialogue: 10,0:40:51.52,0:40:52.85,Default,,0,0,0,,Special polito... no...
-Dialogue: 10,0:40:52.85,0:40:53.93,Default,,0,0,0,,It's "police."
-Dialogue: 10,0:40:53.93,0:40:55.27,Default,,0,0,0,,Oh, Miss Police.
-Dialogue: 10,0:40:55.27,0:40:56.44,Default,,0,0,0,,What's going on?
-Dialogue: 10,0:40:56.44,0:40:57.94,Default,,0,0,0,,You two were in on it together?
-Dialogue: 10,0:40:57.94,0:40:59.15,Default,,0,0,0,,No.
-Dialogue: 10,0:40:59.15,0:41:00.77,Default,,0,0,0,,I really kidnapped him, but...
-Dialogue: 10,0:41:00.77,0:41:04.03,Default,,0,0,0,,I was bored, so I decided to try being a crime lord.
-Dialogue: 10,0:41:04.99,0:41:08.16,Default,,0,0,0,,Only a billionaire's son\N could be so bold.
-Dialogue: 10,0:41:08.16,0:41:10.45,Default,,0,0,0,,Good job. You did great.
-Dialogue: 10,0:41:10.45,0:41:12.41,Default,,0,0,0,,Your rescue went perfectly,
-Dialogue: 10,0:41:12.41,0:41:13.79,Default,,0,0,0,,Miss Special... uh...
-Dialogue: 10,0:41:14.12,0:41:16.37,Default,,0,0,0,,Police officer Maris.
-Dialogue: 10,0:41:16.37,0:41:17.88,Default,,0,0,0,,That's right.
-Dialogue: 10,0:41:17.88,0:41:19.38,Default,,0,0,0,,Police officer Maris.
-Dialogue: 10,0:41:19.96,0:41:22.55,Default,,0,0,0,,I will... I will...
-Dialogue: 10,0:42:31.07,0:42:34.03,Default,,0,0,0,,My home world is such a poor planet.
-Dialogue: 10,0:42:34.03,0:42:36.25,Default,,0,0,0,,I hated being poor,\N so I wanted to run away.
-Dialogue: 10,0:42:36.25,0:42:39.83,Default,,0,0,0,,I built this fortress as my last hope.
-Dialogue: 10,0:42:52.43,0:42:54.14,Default,,0,0,0,,Koganemaru...
-Dialogue: 10,0:42:56.47,0:43:00.48,Default,,0,0,0,,Koganemaru, let's go back to your father.
-Dialogue: 10,0:43:16.24,0:43:19.12,Default,,0,0,0,,I even wore those stupid restraints to protect my beautiful base.
-Dialogue: 10,0:43:20.37,0:43:22.08,Default,,0,0,0,,Don't cry, okay?
-Dialogue: 10,0:43:23.00,0:43:25.54,Default,,0,0,0,,Look, we can just make another one.
-Dialogue: 10,0:43:25.54,0:43:26.75,Default,,0,0,0,,I'll pay for it.
-Dialogue: 10,0:43:31.38,0:43:32.55,Default,,0,0,0,,Sue...
-Dialogue: 10,0:43:37.79,0:43:39.48,Default,,0,0,0,,Don't you hate me?
-Dialogue: 10,0:43:39.48,0:43:42.02,Default,,0,0,0,,Why? It was fun.
-Dialogue: 10,0:43:42.02,0:43:44.69,Default,,0,0,0,,Don't cry. You'll ruin your pretty face.
-Dialogue: 10,0:43:49.78,0:43:51.86,Default,,0,0,0,,Let's get married, Sue.
-Dialogue: 10,0:43:51.86,0:43:52.91,Default,,0,0,0,,What?!
-Dialogue: 10,0:44:50.42,0:44:54.59,Default,,0,0,0,,Hey, Lieutenant Maris!\N What about your mission?
-Dialogue: 10,0:44:54.59,0:44:55.30,Default,,0,0,0,,Stay still!
-Dialogue: 10,0:44:55.30,0:44:55.97,Default,,0,0,0,,Why you bastard!
-Dialogue: 10,0:44:55.97,0:44:58.64,Default,,0,0,0,,If you break this one, it'll be your fifth ship!
-Dialogue: 10,0:44:55.97,0:45:00.01,Overlap,,0,0,0,,Calm down!
-Dialogue: 10,0:44:58.64,0:45:00.01,Default,,0,0,0,,Geez!
-Dialogue: 10,0:45:00.01,0:45:02.18,Default,,0,0,0,,Hey!
-Dialogue: 10,0:45:02.18,0:45:04.02,Default,,0,0,0,,My goodness!
-Dialogue: 10,0:45:04.02,0:45:05.98,Default,,0,0,0,,Lieutenant Maris!
-Dialogue: 10,0:45:11.40,0:45:15.95,Default,,0,0,0,,Being poor is to blame!
+Dialogue: 10,0:37:32.36,0:37:34.94,Thought,,0,0,0,,Bộ điều khiển từ xa!{It's the remote control.}
+Dialogue: 10,0:37:49.83,0:37:52.46,Default,,0,0,0,,Không với tới được!{I can't reach it!}
+Dialogue: 10,0:37:52.46,0:37:54.92,Default,,0,0,0,,{She'll be dead before you can get it.}Trước khi ngươi với được nó\N thì cô ta đã tiêu đời rồi.
+Dialogue: 10,0:38:09.69,0:38:11.86,Default,,0,0,0,,Chút nữa, chút xíu nữa thôi.{A bit more. A bit more.}
+Dialogue: 10,0:38:14.69,0:38:15.82,Default,,0,0,0,,A! Chết tiệt!{Oh, dammit!}
+Dialogue: 10,0:38:27.50,0:38:30.04,Default,,0,0,0,,{Why, you...}Mày dám...
+Dialogue: 10,0:38:47.52,0:38:50.94,Default,,0,0,0,,{It fell! It fell down!}Nó rơi rồi! Rơi rồi!
+Dialogue: 10,0:38:53.02,0:38:54.02,Default,,0,0,0,,{Almost...}Sắp lấy được rồi...
+Dialogue: 10,0:39:05.70,0:39:07.41,Default,,0,0,0,,Đây rồi!{Got it!}
+Dialogue: 10,0:39:07.41,0:39:09.00,Default,,0,0,0,,Thành công rồi!{I did it!}
+Dialogue: 10,0:39:11.96,0:39:13.17,Default,,0,0,0,,Nó rớt ra rồi!{They came off!}
+Dialogue: 10,0:39:39.40,0:39:40.74,Default,,0,0,0,,C-Cô tính làm cái gì đấy hả?{Wh-What are you doing?}
+Dialogue: 10,0:39:40.74,0:39:41.90,Default,,0,0,0,,K-Khoan đã!{Hey, wait!}
+Dialogue: 10,0:39:41.90,0:39:43.99,Default,,0,0,0,,Thế này thì sao hả{How about this!}?
+Dialogue: 10,0:39:55.21,0:39:58.21,Default,,0,0,0,,{Stop it! Don't break it. Please!}Dừng lại! Đừng phá nó mà.\N Tôi lạy cô đấy!
+Dialogue: 10,0:39:58.21,0:40:00.38,Default,,0,0,0,,Dừng lại! Làm ơn, dừng lại đi!{Stop! Please, stop!}
+Dialogue: 10,0:40:00.38,0:40:02.26,Default,,0,0,0,,Im đi!{Shut up!}
+Dialogue: 10,0:40:09.14,0:40:10.81,Default,,0,0,0,,Dừng tay!{Hold it!}
+Dialogue: 10,0:40:14.35,0:40:15.81,Default,,0,0,0,,{You're the boss of the kidnappers!}Ngươi là tên trùm của bọn bắt cóc!
+Dialogue: 10,0:40:15.81,0:40:17.15,Default,,0,0,0,,{Indeed.}Chính xác.
+Dialogue: 10,0:40:17.15,0:40:17.94,Default,,0,0,0,,{Money...}Tiền...
+Dialogue: 10,0:40:17.94,0:40:19.82,Default,,0,0,0,,{I mean, give back the hostage!}À, không... trả con tin lại đây!
+Dialogue: 10,0:40:19.82,0:40:20.90,Default,,0,0,0,,{I can't do that.}Không được.
+Dialogue: 10,0:40:20.90,0:40:23.03,Default,,0,0,0,,Chúng ta chết cùng với pháo đài của mình.{We'll die with our fortress.}
+Dialogue: 10,0:40:23.03,0:40:24.91,Default,,0,0,0,,{I'm taking you and the hostage with us!}Ta sẽ lôi cô cùng con tin chết chùm ở đây! 
+Dialogue: 0,0:40:24.91,0:40:25.77,Default,,0,0,0,,Hể?
+Dialogue: 10,0:40:26.41,0:40:30.45,Default,,0,0,0,,{You can stop that now.\N I've already given up.}Thôi anh bỏ đi.\N Tôi đã chịu thua rồi.
+Dialogue: 10,0:40:30.45,0:40:31.66,Default,,0,0,0,,{But why?}Tại sao chứ?
+Dialogue: 10,0:40:31.95,0:40:34.62,Default,,0,0,0,,{She wrecked my base!\N What am I supposed to do now?!}Cô ta phá huỷ căn cứ của tôi \Nthế này, thì tôi biết phải làm gì bây giờ?!
+Dialogue: 10,0:40:35.00,0:40:38.34,Default,,0,0,0,,Có thật là em thật sự muốn bỏ cuộc không?{Are you sure you really want to stop?}
+Dialogue: 0,0:40:39.79,0:40:41.23,Default,,0,0,0,,Hài...
+Dialogue: 10,0:40:43.76,0:40:45.18,Default,,0,0,0,,Chán ghê.{How boring.}
+Dialogue: 10,0:40:45.18,0:40:46.64,Default,,0,0,0,,Koganemaru-san!
+Dialogue: 10,0:40:48.18,0:40:51.52,Default,,0,0,0,,Ngạc nhiên chứ? Quý cô Đặc nhiệm{Are you surprised? Miss Specto... uh...}
+Dialogue: 10,0:40:51.52,0:40:53.33,Default,,0,0,0,,{Special polito... no...}Công an Đặc nhiệm... À, không...
+Dialogue: 10,0:40:52.85,0:40:53.93,Default,,0,0,0,,{It's "police."}{\an8}Là "Cảnh sát."
+Dialogue: 10,0:40:53.93,0:40:55.27,Default,,0,0,0,,{Oh, Miss Police.}À, Quý cô Cảnh sát Đặc nhiệm!
+Dialogue: 10,0:40:55.27,0:40:56.44,Default,,0,0,0,,{What's going on?}Chuyện này là sao chứ?
+Dialogue: 10,0:40:56.44,0:40:57.94,Default,,0,0,0,,{You two were in on it together?}Hai người đã đồng bọn với nhau sao?
+Dialogue: 10,0:40:57.94,0:40:59.15,Default,,0,0,0,,Không.{No.}
+Dialogue: 10,0:40:59.15,0:41:00.77,Default,,0,0,0,,{I really kidnapped him, but...}Dù tôi là kẻ đã bắt cóc, nhưng...
+Dialogue: 10,0:41:00.77,0:41:04.03,Default,,0,0,0,,{I was bored, so I decided to try being a crime lord.}Do chán quá nên tôi đã \Nđóng giả làm ông trùm ấy mà.
+Dialogue: 10,0:41:04.99,0:41:08.16,Default,,0,0,0,,{Only a billionaire's son\N could be so bold.}Đúng là con của tỷ phú có khác, táo bạo thật.
+Dialogue: 10,0:41:08.16,0:41:10.45,Default,,0,0,0,,{Good job. You did great.}Làm tốt lắm. \NCô đã thành công mỹ mãn rồi đấy.
+Dialogue: 10,0:41:10.45,0:41:12.12,Default,,0,0,0,,{Your rescue went perfectly,}Chiến dịch giải cứu đã hoàn thành.
+Dialogue: 10,0:41:12.41,0:41:13.79,Default,,0,0,0,,{Miss Special... uh...}Quý cô Đặc nhiệm... ừm...
+Dialogue: 10,0:41:14.12,0:41:16.37,Default,,0,0,0,,{Police officer Maris.}Cảnh sát Đặc nhiệm Maris ạ...
+Dialogue: 10,0:41:16.37,0:41:17.88,Default,,0,0,0,,Phải.{That's right.}
+Dialogue: 10,0:41:17.88,0:41:19.38,Default,,0,0,0,,{Police officer Maris.}Cảnh sát Đặc nhiệm Maris.
+Dialogue: 10,0:41:19.96,0:41:22.55,Default,,0,0,0,,{I will... I will...}Em đồng ý... Em đồng ý...
+Dialogue: 10,0:42:31.07,0:42:34.03,Default,,0,0,0,,{My home world is such a poor planet.}Quê nhà của tôi là một nơi vô cùng nghèo khó.
+Dialogue: 10,0:42:34.03,0:42:36.25,Default,,0,0,0,,{I hated being poor,\N so I wanted to run away.}Tôi ghét cái nghèo,\Nnên tôi đã bỏ chạy khỏi nơi đó.
+Dialogue: 10,0:42:36.25,0:42:39.83,Default,,0,0,0,,{I built this fortress as my last hope.}Với chút hi vọng cuối cùng,\N tôi xây dựng pháo đài này.
+Dialogue: 10,0:42:52.43,0:42:54.14,Default,,0,0,0,,Koganemaru-san...
+Dialogue: 10,0:42:56.47,0:43:00.48,Default,,0,0,0,,Koganemaru-san, {let's go back to your father.}đi thôi... đến chỗ ba anh nào.
+Dialogue: 10,0:43:16.24,0:43:18.92,Default,,0,0,0,,{I even wore those stupid restraints to protect my beautiful base.}Tôi thậm chí còn mặc cái bộ kháng lực\N chết tiệt đó để bảo vệ pháo đài này...
+Dialogue: 10,0:43:20.37,0:43:22.08,Default,,0,0,0,,Thôi đừng khóc nữa.{Don't cry, okay?}
+Dialogue: 10,0:43:22.80,0:43:25.54,Default,,0,0,0,,{Look, we can just make another one.}Nào, chúng ta chỉ cần xây\N một cái khác là được rồi mà.
+Dialogue: 10,0:43:25.54,0:43:26.75,Default,,0,0,0,,{I'll pay for it.}Anh sẽ cho em tiền.
+Dialogue: 0,0:43:26.75,0:43:27.62,Default,,0,0,0,,Hế?!
+Dialogue: 0,0:43:28.35,0:43:29.33,Default,,0,0,0,,Ơ- Hơ...
+Dialogue: 10,0:43:31.38,0:43:32.55,Default,,0,0,0,,Sue-chan...
+Dialogue: 10,0:43:37.79,0:43:39.48,Default,,0,0,0,,Anh không oán hận em sao?{Don't you hate me?}
+Dialogue: 10,0:43:39.48,0:43:42.02,Default,,0,0,0,,Tại sao chứ? Không phải ta đã rất vui sao?{Why? It was fun.}
+Dialogue: 10,0:43:42.02,0:43:44.69,Default,,0,0,0,,{Don't cry. You'll ruin your pretty face.}Khóc như thế thì em sẽ\N làm xấu khuôn mặt xinh xắn của mình đấy.
+Dialogue: 10,0:43:49.78,0:43:51.86,Default,,0,0,0,,Cưới anh nhé, Sue-chan.{Let's get married, Sue.}
+Dialogue: 10,0:43:51.86,0:43:52.91,Default,,0,0,0,,Ế?!{What?!}
+Dialogue: 10,0:44:50.42,0:44:54.59,Default,,0,0,0,,{Hey, Lieutenant Maris!\N What about your mission?}Này, Thiếu úy Maris!\NCòn nhiệm vụ của cô thì sao rồi hả?
+Dialogue: 10,0:44:54.59,0:44:55.30,Default,,0,0,0,,Bình tĩnh lại đi!{Stay still!}
+Dialogue: 10,0:44:55.30,0:44:56.37,Default,,0,0,0,,Tên khốn, tại sao chứ?!{Why you bastard!}
+Dialogue: 10,0:44:55.88,0:44:57.88,Default,,0,0,0,,{\an8}{If you break this one, it'll be your fifth ship!}Yên nào, nếu không thì đây sẽ là \Nchiếc phi thuyền thứ 5 cô phá hỏng đấy!
+Comment: 10,0:44:55.97,0:45:00.01,Overlap,,0,0,0,,Calm down!
+Dialogue: 0,0:44:56.78,0:44:57.60,Default,,0,0,0,,Mặc bộ kháng lực vào đi má!
+Dialogue: 10,0:44:58.64,0:45:00.01,Default,,0,0,0,,Trời ơi{Geez!}!
+Dialogue: 0,0:44:57.89,0:45:00.01,Default,,0,0,0,,{\an8}Nhiệm vụ thế nào rồi?
+Dialogue: 10,0:45:00.01,0:45:02.18,Default,,0,0,0,,{Hey!}Này!
+Dialogue: 10,0:45:02.18,0:45:04.02,Default,,0,0,0,,{My goodness!}Thiệt tình!
+Dialogue: 10,0:45:04.02,0:45:05.98,Default,,0,0,0,,Thiếu úy Maris!{Lieutenant Maris!}
+Dialogue: 10,0:45:11.40,0:45:15.95,Default,,0,0,0,,{Being poor is to blame!}Đúng là cái tội của việc nghèo mà!
 Comment: 0,0:08:27.32,0:08:27.32,InsE - Translated,,0,0,0,,OP Romaji Start
 Dialogue: 0,0:08:27.32,0:08:31.16,InsE - Romaji,,0,0,0,,{\k11}{\k72}Woo{\k46} {\k21}mi{\k21}tsu{\k30}me{\k86}te{\k66}ru{\k31}
 Dialogue: 0,0:08:31.16,0:08:35.00,InsE - Romaji,,0,0,0,,{\k7}{\k74}Woo{\k38} {\k28}sa{\k28}sa{\k22}ya{\k78}ki {\k109}wa
