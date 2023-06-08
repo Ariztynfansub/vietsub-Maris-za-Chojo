@@ -16,9 +16,9 @@ Video File: [Orphan] Maris the Choujo v2 (LD) [8267604D].mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.875000
-Scroll Position: 567
-Active Line: 573
-Video Position: 69785
+Scroll Position: 531
+Active Line: 540
+Video Position: 69560
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -31,6 +31,8 @@ Style: InsE - Translated,UVN Van,34,&H00FFFFFF,&H0000FFFF,&H00762507,&H00000000,
 Style: EdR,Cac Moose,35,&H00FFFFFF,&H0000FFFF,&H00001448,&H00000000,0,0,0,0,100,100,0,0,1,2.3,0,8,40,40,18,1
 Style: EdE,Cac Moose,35,&H00FFFFFF,&H0000FFFF,&H00001448,&H00000000,0,0,0,0,100,100,0,0,1,2.3,0,2,40,40,22,1
 Style: InsE - Romaji,UVN Van,34,&H00FFFFFF,&H0000FFFF,&H00762507,&H00000000,0,0,0,0,100,100,0,0,1,2.3,0,8,40,40,30,1
+Style: EdR - Romaji,UVN Van,34,&H00FFFFFF,&H0000FFFF,&H00001448,&H00000000,0,0,0,0,100,100,0,0,1,2.3,0,8,40,40,30,1
+Style: EdR - Translated,UVN Van,34,&H00FFFFFF,&H0000FFFF,&H00001448,&H00000000,0,0,0,0,100,100,0,0,1,2.3,0,2,40,40,30,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -551,68 +553,68 @@ Dialogue: 0,0:24:38.79,0:24:45.34,InsE - Translated,,0,0,0,,{A green lullaby}M�
 Dialogue: 0,0:24:45.34,0:24:52.22,InsE - Translated,,0,0,0,,{Run hand in hand through the meadow}Băng qua đồng cỏ bao la.
 Dialogue: 0,0:24:52.22,0:25:01.73,InsE - Translated,,0,0,0,,{You and I will be together forever}Em và anh sẽ mãi bên nhau.
 Comment: 0,0:25:01.73,0:25:03.73,InsE - Translated,,0,0,0,,Insert song end/Ending start
-Dialogue: 0,0:45:38.18,0:45:42.76,EdR,,0,0,0,,mune no haato wa doku kinoko
-Dialogue: 0,0:45:42.76,0:45:46.98,EdR,,0,0,0,,shibana ga tonda enerugii
-Dialogue: 0,0:45:47.52,0:45:52.15,EdR,,0,0,0,,umaretsuite no amazonesu
-Dialogue: 0,0:45:52.15,0:45:57.11,EdR,,0,0,0,,fijikaru biito sora wo yuku
-Dialogue: 0,0:45:57.11,0:46:00.99,EdR,,0,0,0,,konoyo ha maane manee
-Dialogue: 0,0:46:01.78,0:46:05.62,EdR,,0,0,0,,tokimeku genkin ne
-Dialogue: 0,0:46:06.41,0:46:09.88,EdR,,0,0,0,,shiawase naraba te wo
-Dialogue: 0,0:46:10.83,0:46:13.96,EdR,,0,0,0,,tatakou
-Dialogue: 0,0:46:16.59,0:46:21.35,EdR,,0,0,0,,binbo ranbo
-Dialogue: 0,0:46:21.35,0:46:26.06,EdR,,0,0,0,,koi wa chikara
-Dialogue: 0,0:46:26.06,0:46:30.60,EdR,,0,0,0,,binbo shinbo
-Dialogue: 0,0:46:30.60,0:46:38.07,EdR,,0,0,0,,{\fad(0,3000)}tsukame Big Success
-Dialogue: 0,0:46:40.07,0:46:44.33,EdR,,0,0,0,,ten to jigoku no wakaremichi
-Dialogue: 0,0:46:44.70,0:46:49.41,EdR,,0,0,0,,kane ga nararu tamanokoshi
-Dialogue: 0,0:46:49.41,0:46:54.04,EdR,,0,0,0,,pinchi mo sou yo pinhane de
-Dialogue: 0,0:46:54.04,0:46:59.01,EdR,,0,0,0,,chansu ni dansu odocchae
-Dialogue: 0,0:46:59.01,0:47:03.01,EdR,,0,0,0,,otoko ha maane manee
-Dialogue: 0,0:47:03.72,0:47:08.23,EdR,,0,0,0,,body te ima kurejitto
-Dialogue: 0,0:47:08.23,0:47:16.02,EdR,,0,0,0,,shitataka wagamamana sekushii pawaa
-Dialogue: 0,0:47:18.61,0:47:23.28,EdR,,0,0,0,,binbo ranbo
-Dialogue: 0,0:47:23.28,0:47:27.95,EdR,,0,0,0,,mirai wa soka sa
-Dialogue: 0,0:47:27.95,0:47:32.58,EdR,,0,0,0,,binbo shinbo
-Dialogue: 0,0:47:32.58,0:47:38.00,EdR,,0,0,0,,moero Good Success
-Dialogue: 0,0:47:42.22,0:47:46.18,EdR,,0,0,0,,konoyo wa maane manee
-Dialogue: 0,0:47:46.85,0:47:50.77,EdR,,0,0,0,,mihatenu yume gokochi
-Dialogue: 0,0:47:51.60,0:47:55.86,EdR,,0,0,0,,uchuu no anettai
-Dialogue: 0,0:47:55.86,0:47:59.28,EdR,,0,0,0,,uuman pawaa
-Dialogue: 0,0:48:01.74,0:48:06.45,EdR,,0,0,0,,binbo ranbo
-Dialogue: 0,0:48:06.45,0:48:11.20,EdR,,0,0,0,,koi wa chikara
-Dialogue: 0,0:48:11.20,0:48:15.71,EdR,,0,0,0,,binbo shinbo
-Dialogue: 0,0:48:15.71,0:48:21.13,EdR,,0,0,0,,{\fad(0,1000)}tsukame Big Success
-Dialogue: 0,0:45:38.18,0:45:42.76,EdE,,0,0,0,,{Your heart is like a poisoned mushroom.}Trái tim trong lòng ngực\N giống như nấm độc vậy.
-Dialogue: 0,0:45:42.76,0:45:47.13,EdE,,0,0,0,,{Sparks fly out, it's energy!}Tia sáng bắn ra,\N chính là năng lượng đấy.
-Dialogue: 0,0:45:47.52,0:45:52.15,EdE,,0,0,0,,{You're a natural born Amazoness!}Bạn là một Amazoness bẩm sinh!
-Dialogue: 0,0:45:52.15,0:45:57.11,EdE,,0,0,0,,{The physical beat soars through the sky!}Nhịp đập vật lý \Nvang vọng khắp bầu trời!
-Dialogue: 0,0:45:57.11,0:46:00.99,EdE,,0,0,0,,{This world is all about money, I'd say.}Thế giới này chỉ toàn là về tiền.
-Dialogue: 0,0:46:01.78,0:46:05.62,EdE,,0,0,0,,{Money affects everything today.}Tiền phe phẩy
-Dialogue: 0,0:46:06.41,0:46:09.88,EdE,,0,0,0,,{So if you're happy,}Nếu bạn thấy hạnh phúc,
-Dialogue: 0,0:46:10.83,0:46:13.96,EdE,,0,0,0,,{clap your hands.}thì hãy vỗ tay.
-Dialogue: 0,0:46:16.59,0:46:21.35,EdE,,0,0,0,,{Poverty! Violence!}Nghèo! Bạo lực!
-Dialogue: 0,0:46:21.35,0:46:26.06,EdE,,0,0,0,,{Love is power.}Tình yêu chính là sức mạnh!
-Dialogue: 0,0:46:26.06,0:46:30.60,EdE,,0,0,0,,{Poverty! Patience!}Nghèo! Kiên nhẫn!
-Dialogue: 0,0:46:30.60,0:46:38.07,EdE,,0,0,0,,{\fad(0,3000)}{Take it all. Big success!}Nắm bắt tất cả. Đại thành công!
-Dialogue: 0,0:46:40.07,0:46:44.33,EdE,,0,0,0,,{Heaven and Hell are divided by a road of money!}Ngã rẽ giữa Thiên đàng và Địa ngục!
-Dialogue: 0,0:46:44.70,0:46:49.41,EdE,,0,0,0,,{Coins jingle jingle, a merry sound.\NMarry for money!}Đồng xu kêu lẻng kẻng.\N Cưới chồng giàu!
-Dialogue: 0,0:46:49.41,0:46:54.04,EdE,,0,0,0,,{In a pinch, some money would be as good.}Dù có trong lúc khốn khó, \Nphải là "kim" đấy.
-Dialogue: 0,0:46:54.04,0:46:59.01,EdE,,0,0,0,,{It's a chance to dance, I know you'll take it!}Nếu có cơ hội để nhảy,\N thì hãy nhảy đi nào!
-Dialogue: 0,0:46:59.01,0:47:03.01,EdE,,0,0,0,,{All men are boys with money, I'd say.}Đàn ông chỉ toàn là tiền.
-Dialogue: 0,0:47:03.72,0:47:08.23,EdE,,0,0,0,,{Their bodies gleam.\N Credit charged, you know!}Trên người họ lúc nào cũng có tiền cả.
-Dialogue: 0,0:47:08.23,0:47:16.02,EdE,,0,0,0,,{Super greedy with incredible sexy power!}Cứng đầu, ích kỷ. \NSức mạnh quyến rũ!
-Dialogue: 0,0:47:18.61,0:47:23.28,EdE,,0,0,0,,{Poverty! Violence!}Nghèo! Bạo lực!
-Dialogue: 0,0:47:23.28,0:47:27.95,EdE,,0,0,0,,{The future will be like that!}Tương lai bạn nằm ở đó đấy!
-Dialogue: 0,0:47:27.95,0:47:32.58,EdE,,0,0,0,,{Poverty! Patience!}Nghèo! Kiên nhẫn!
-Dialogue: 0,0:47:32.58,0:47:38.00,EdE,,0,0,0,,{Fiery good success!}Nồng nhiệt vào! Thành công tốt!
-Dialogue: 0,0:47:42.22,0:47:46.18,EdE,,0,0,0,,{This world is all about money, I'd say.}Thế giới này chỉ toàn là về tiền.
-Dialogue: 0,0:47:46.85,0:47:50.77,EdE,,0,0,0,,{It's easy living in a broken dream,}Giấc mơ viễn vong
-Dialogue: 0,0:47:51.60,0:47:55.86,EdE,,0,0,0,,{deep in the jungle of a cosmic sea.}trong khu rừng bán nhiệt đới của vũ trụ.
-Dialogue: 0,0:47:55.86,0:47:59.28,EdE,,0,0,0,,{Woman power!}Sức mạnh phái nữ!
-Dialogue: 0,0:48:01.74,0:48:06.45,EdE,,0,0,0,,{Poverty! Violence!}Nghèo! Bạo lực!
-Dialogue: 0,0:48:06.45,0:48:11.20,EdE,,0,0,0,,{Love is power!}Tình yêu chính là sức mạnh!
-Dialogue: 0,0:48:11.20,0:48:15.71,EdE,,0,0,0,,{Poverty! Patience!}Nghèo! Kiên nhẫn!
-Dialogue: 0,0:48:15.71,0:48:21.13,EdE,,0,0,0,,{\fad(0,1000)}{Take it all. Big success!}Nắm bắt tất cả. Đại thành công!
+Dialogue: 0,0:45:38.18,0:45:42.76,EdR - Romaji,,0,0,0,,{\k30}Mu{\k26}ne {\k31}no {\k24}ha{\k29}a{\k24}to {\k31}wa{\k122} {\k31}do{\k21}ku {\k10}ki{\k16}no{\k42}ko{\k21}
+Dialogue: 0,0:45:42.76,0:45:47.24,EdR - Romaji,,0,0,0,,{\k6}{\k24}Shi{\k35}ba{\k25}na {\k28}ga {\k48}ton{\k38}da{\k125} {\k21}e{\k29}ne{\k28}ru{\k28}gii{\k13}
+Dialogue: 0,0:45:47.52,0:45:52.15,EdR - Romaji,,0,0,0,,{\k24}U{\k25}ma{\k31}re{\k33}tsu{\k29}i{\k19}te {\k31}no{\k126} {\k31}a{\k10}ma{\k20}zo{\k11}ne{\k42}su{\k31}
+Dialogue: 0,0:45:52.15,0:45:57.11,EdR - Romaji,,0,0,0,,{\k28}Fi{\k28}ji{\k28}ka{\k34}ru {\k32}bi{\k14}i{\k37}to{\k95} {\k54}so{\k19}ra {\k8}wo {\k22}yu{\k33}ku{\k64}
+Dialogue: 0,0:45:57.11,0:46:00.99,EdR - Romaji,,0,0,0,,{\k31}Ko{\k25}no{\k32}yo {\k34}ha{\k14} {\k38}ma{\k30}a{\k29}ne{\k25} {\k26}ma{\k62}nee{\k42}
+Dialogue: 0,0:46:01.78,0:46:05.62,EdR - Romaji,,0,0,0,,{\k30}To{\k27}ki{\k26}me{\k33}ku{\k27} {\k56}gen{\k60}ki{\k29}n {\k47}ne{\k49}
+Dialogue: 0,0:46:06.41,0:46:09.88,EdR - Romaji,,0,0,0,,{\k33}Shi{\k29}a{\k16}wa{\k43}se{\k17} {\k36}na{\k36}ra{\k32}ba{\k24} {\k27}te {\k44}wo{\k10}
+Dialogue: 0,0:46:10.83,0:46:13.96,EdR - Romaji,,0,0,0,,{\k58}ta{\k60}ta{\k143}kou{\k52}
+Dialogue: 0,0:46:16.59,0:46:21.35,EdR - Romaji,,0,0,0,,{\k98}Bin{\k49}bo{\k90} {\k85}ran{\k58}bo{\k96}
+Dialogue: 0,0:46:21.35,0:46:26.06,EdR - Romaji,,0,0,0,,{\k32}Ko{\k47}i {\k51}wa{\k90} {\k42}chi{\k50}ka{\k68}ra{\k91}
+Dialogue: 0,0:46:26.06,0:46:30.60,EdR - Romaji,,0,0,0,,{\k77}Bin{\k61}bo{\k78} {\k91}shin{\k61}bo{\k86}
+Dialogue: 0,0:46:30.60,0:46:38.07,EdR - Romaji,,0,0,0,,{\k41}{\fad(0,3000)}Tsu{\k46}ka{\k48}me{\k102} {\k33}Big {\k48}Suc{\k61}cess{\k368}
+Dialogue: 0,0:46:40.05,0:46:44.33,EdR - Romaji,,0,0,0,,{\k53}Ten {\k23}to {\k30}ji{\k36}go{\k18}ku {\k32}no{\k124} {\k28}wa{\k22}ka{\k10}re{\k20}mi{\k32}chi
+Dialogue: 0,0:46:44.64,0:46:49.41,EdR - Romaji,,0,0,0,,{\k31}Ka{\k32}ne {\k25}ga {\k35}na{\k28}ra{\k49}ru{\k129} {\k27}ta{\k27}ma{\k14}no{\k8}ko{\k35}shi{\k37}
+Dialogue: 0,0:46:49.41,0:46:54.04,EdR - Romaji,,0,0,0,,{\k51}Pin{\k29}chi {\k21}mo {\k57}sou {\k34}yo{\k129} {\k40}pin{\k19}ha{\k16}ne {\k30}de{\k37}
+Dialogue: 0,0:46:54.04,0:46:59.01,EdR - Romaji,,0,0,0,,{\k47}Chan{\k34}su {\k36}ni {\k37}dan{\k47}su{\k120} {\k29}o{\k32}doc{\k20}cha{\k32}e{\k63}
+Dialogue: 0,0:46:59.01,0:47:03.01,EdR - Romaji,,0,0,0,,{\k20}O{\k40}to{\k24}ko {\k33}ha{\k21} {\k35}ma{\k32}a{\k28}ne{\k25} {\k32}ma{\k52}nee{\k58}
+Dialogue: 0,0:47:03.72,0:47:08.23,EdR - Romaji,,0,0,0,,{\k30}Bo{\k57}dy{\k58} te {\k28}i{\k28}ma {\k56}ku{\k28}re{\k166}jitto
+Dialogue: 0,0:47:08.23,0:47:16.02,EdR - Romaji,,0,0,0,,{\k38}Shi{\k30}ta{\k29}ta{\k35}ka{\k28} {\k26}wa{\k28}ga{\k57}ma{\k31}ma{\k49}na{\k87} {\k45}se{\k14}ku{\k64}shii{\k39} pa{\k136}waa{\k43}
+Dialogue: 0,0:47:18.61,0:47:23.28,EdR - Romaji,,0,0,0,,{\k83}Bin{\k62}bo{\k83} {\k86}ran{\k56}bo{\k97}
+Dialogue: 0,0:47:23.28,0:47:27.95,EdR - Romaji,,0,0,0,,{\k45}Mi{\k38}ra{\k46}i {\k80}{\k53}so{\k55}ko {\k65}sa{\k85}
+Dialogue: 0,0:47:27.95,0:47:32.58,EdR - Romaji,,0,0,0,,{\k84}Bin{\k55}bo{\k74} {\k96}shin{\k58}bo{\k96}
+Dialogue: 0,0:47:32.58,0:47:38.00,EdR - Romaji,,0,0,0,,{\k36}Mo{\k55}e{\k42}ro{\k104} {\k33}Good {\k50}Suc{\k67}cess{\k155}
+Dialogue: 0,0:47:42.22,0:47:46.18,EdR - Romaji,,0,0,0,,{\k23}Ko{\k33}no{\k34}yo {\k27}wa {\k185}maane {\k94}manee
+Dialogue: 0,0:47:46.85,0:47:50.77,EdR - Romaji,,0,0,0,,mihatenu yume gokochi
+Dialogue: 0,0:47:51.60,0:47:55.86,EdR - Romaji,,0,0,0,,uchuu no anettai
+Dialogue: 0,0:47:55.86,0:47:59.28,EdR - Romaji,,0,0,0,,uuman pawaa
+Dialogue: 0,0:48:01.74,0:48:06.45,EdR - Romaji,,0,0,0,,binbo ranbo
+Dialogue: 0,0:48:06.45,0:48:11.20,EdR - Romaji,,0,0,0,,koi wa chikara
+Dialogue: 0,0:48:11.20,0:48:15.71,EdR - Romaji,,0,0,0,,binbo shinbo
+Dialogue: 0,0:48:15.71,0:48:21.13,EdR - Romaji,,0,0,0,,{\fad(0,1000)}tsukame Big Success
+Dialogue: 0,0:45:38.18,0:45:42.76,EdR - Translated,,0,0,0,,{Your heart is like a poisoned mushroom.}Trái tim trong lòng ngực\N giống như nấm độc vậy.
+Dialogue: 0,0:45:42.76,0:45:47.24,EdR - Translated,,0,0,0,,{Sparks fly out, it's energy!}Tia sáng bắn ra,\N chính là năng lượng đấy.
+Dialogue: 0,0:45:47.52,0:45:52.15,EdR - Translated,,0,0,0,,{You're a natural born Amazoness!}Bạn là một Amazoness bẩm sinh!
+Dialogue: 0,0:45:52.15,0:45:57.11,EdR - Translated,,0,0,0,,{The physical beat soars through the sky!}Nhịp đập vật lý \Nvang vọng khắp bầu trời!
+Dialogue: 0,0:45:57.11,0:46:00.99,EdR - Translated,,0,0,0,,{This world is all about money, I'd say.}Thế giới này chỉ toàn là về tiền.
+Dialogue: 0,0:46:01.78,0:46:05.62,EdR - Translated,,0,0,0,,{Money affects everything today.}Tiền phe phẩy.
+Dialogue: 0,0:46:06.41,0:46:09.88,EdR - Translated,,0,0,0,,{So if you're happy,}Nếu bạn thấy hạnh phúc,
+Dialogue: 0,0:46:10.83,0:46:13.96,EdR - Translated,,0,0,0,,{clap your hands.}thì hãy vỗ tay.
+Dialogue: 0,0:46:16.59,0:46:21.35,EdR - Translated,,0,0,0,,{Poverty! Violence!}Nghèo! Bạo lực!
+Dialogue: 0,0:46:21.35,0:46:26.06,EdR - Translated,,0,0,0,,{Love is power.}Tình yêu chính là sức mạnh!
+Dialogue: 0,0:46:26.06,0:46:30.60,EdR - Translated,,0,0,0,,{Poverty! Patience!}Nghèo! Kiên nhẫn!
+Dialogue: 0,0:46:30.60,0:46:38.07,EdR - Translated,,0,0,0,,{\fad(0,3000)}{Take it all. Big success!}Nắm bắt tất cả. Đại thành công!
+Dialogue: 0,0:46:40.05,0:46:44.33,EdR - Translated,,0,0,0,,{Heaven and Hell are divided by a road of money!}Ngã rẽ giữa Thiên đàng và Địa ngục!
+Dialogue: 0,0:46:44.64,0:46:49.41,EdR - Translated,,0,0,0,,{Coins jingle jingle, a merry sound.\NMarry for money!}Đồng xu kêu lẻng kẻng.\N Cưới chồng giàu!
+Dialogue: 0,0:46:49.41,0:46:54.04,EdR - Translated,,0,0,0,,{In a pinch, some money would be as good.}Dù có trong lúc khốn khó, \Nphải chính là "kim" đấy.
+Dialogue: 0,0:46:54.04,0:46:59.01,EdR - Translated,,0,0,0,,{It's a chance to dance, I know you'll take it!}Nếu có cơ hội để nhảy,\N thì hãy nhảy đi nào!
+Dialogue: 0,0:46:59.01,0:47:03.01,EdR - Translated,,0,0,0,,{All men are boys with money, I'd say.}Đàn ông chỉ toàn là tiền.
+Dialogue: 0,0:47:03.72,0:47:08.23,EdR - Translated,,0,0,0,,{Their bodies gleam.\N Credit charged, you know!}Trên người họ lúc nào cũng có tiền cả.
+Dialogue: 0,0:47:08.23,0:47:16.02,EdR - Translated,,0,0,0,,{Super greedy with incredible sexy power!}Cứng đầu, ích kỷ. \NSức mạnh quyến rũ!
+Dialogue: 0,0:47:18.61,0:47:23.28,EdR - Translated,,0,0,0,,{Poverty! Violence!}Nghèo! Bạo lực!
+Dialogue: 0,0:47:23.28,0:47:27.95,EdR - Translated,,0,0,0,,{The future will be like that!}Tương lai bạn nằm ở đó đấy!
+Dialogue: 0,0:47:27.95,0:47:32.58,EdR - Translated,,0,0,0,,{Poverty! Patience!}Nghèo! Kiên nhẫn!
+Dialogue: 0,0:47:32.58,0:47:38.00,EdR - Translated,,0,0,0,,{Fiery good success!}Nồng nhiệt vào! Thành công tốt!
+Dialogue: 0,0:47:42.22,0:47:46.18,EdR - Translated,,0,0,0,,{This world is all about money, I'd say.}Thế giới này chỉ toàn là về tiền.
+Dialogue: 0,0:47:46.85,0:47:50.77,EdR - Translated,,0,0,0,,{It's easy living in a broken dream,}Giấc mơ viễn vong
+Dialogue: 0,0:47:51.60,0:47:55.86,EdR - Translated,,0,0,0,,{deep in the jungle of a cosmic sea.}trong khu rừng bán nhiệt đới của vũ trụ.
+Dialogue: 0,0:47:55.86,0:47:59.28,EdR - Translated,,0,0,0,,{Woman power!}Sức mạnh phái nữ!
+Dialogue: 0,0:48:01.74,0:48:06.45,EdR - Translated,,0,0,0,,{Poverty! Violence!}Nghèo! Bạo lực!
+Dialogue: 0,0:48:06.45,0:48:11.20,EdR - Translated,,0,0,0,,{Love is power!}Tình yêu chính là sức mạnh!
+Dialogue: 0,0:48:11.20,0:48:15.71,EdR - Translated,,0,0,0,,{Poverty! Patience!}Nghèo! Kiên nhẫn!
+Dialogue: 0,0:48:15.71,0:48:21.13,EdR - Translated,,0,0,0,,{\fad(0,1000)}{Take it all. Big success!}Nắm bắt tất cả. Đại thành công!
 Comment: 0,0:00:20.14,0:00:22.14,Sign,,0,0,0,,Ending end
 Dialogue: 0,0:00:22.14,0:00:25.35,Sign,,0,0,0,,{\fad(550,1100)\fs50\fnKozuka Mincho Pro H\blur1.2\pos(315,340)\c&H4516F4&}Shogakukan
 Dialogue: 0,0:00:26.05,0:00:31.06,Sign,,0,0,0,,{\an3\fnUVN Van\fs38\pos(201,158.7)\blur0.6}{Production}Sản xuất\N \N
