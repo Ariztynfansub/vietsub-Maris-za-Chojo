@@ -16,9 +16,9 @@ Video File: [Orphan] Maris the Choujo v2 (LD) [8267604D].mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.875000
-Scroll Position: 553
-Active Line: 562
-Video Position: 68294
+Scroll Position: 567
+Active Line: 573
+Video Position: 69785
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -591,28 +591,28 @@ Dialogue: 0,0:46:01.78,0:46:05.62,EdE,,0,0,0,,{Money affects everything today.}T
 Dialogue: 0,0:46:06.41,0:46:09.88,EdE,,0,0,0,,{So if you're happy,}Nếu bạn thấy hạnh phúc,
 Dialogue: 0,0:46:10.83,0:46:13.96,EdE,,0,0,0,,{clap your hands.}thì hãy vỗ tay.
 Dialogue: 0,0:46:16.59,0:46:21.35,EdE,,0,0,0,,{Poverty! Violence!}Nghèo! Bạo lực!
-Dialogue: 0,0:46:21.35,0:46:26.06,EdE,,0,0,0,,{Love is power.}Tình yêu chính là sức mạnh.
+Dialogue: 0,0:46:21.35,0:46:26.06,EdE,,0,0,0,,{Love is power.}Tình yêu chính là sức mạnh!
 Dialogue: 0,0:46:26.06,0:46:30.60,EdE,,0,0,0,,{Poverty! Patience!}Nghèo! Kiên nhẫn!
 Dialogue: 0,0:46:30.60,0:46:38.07,EdE,,0,0,0,,{\fad(0,3000)}{Take it all. Big success!}Nắm bắt tất cả. Đại thành công!
 Dialogue: 0,0:46:40.07,0:46:44.33,EdE,,0,0,0,,{Heaven and Hell are divided by a road of money!}Ngã rẽ giữa Thiên đàng và Địa ngục!
-Dialogue: 0,0:46:44.70,0:46:49.41,EdE,,0,0,0,,{Coins jingle jingle, a merry sound.\NMarry for money!}Đồng tiền kêu lẻng kẻng.\N Cưới chồng giàu!
-Dialogue: 0,0:46:49.41,0:46:54.04,EdE,,0,0,0,,{In a pinch, some money would be as good.}
-Dialogue: 0,0:46:54.04,0:46:59.01,EdE,,0,0,0,,It's a chance to dance, I know you'll take it!
-Dialogue: 0,0:46:59.01,0:47:03.01,EdE,,0,0,0,,All men are boys with money, I'd say.
-Dialogue: 0,0:47:03.72,0:47:08.23,EdE,,0,0,0,,Their bodies gleam.\N Credit charged, you know!
-Dialogue: 0,0:47:08.23,0:47:16.02,EdE,,0,0,0,,Super greedy with incredible sexy power!
-Dialogue: 0,0:47:18.61,0:47:23.28,EdE,,0,0,0,,Poverty! Violence!
-Dialogue: 0,0:47:23.28,0:47:27.95,EdE,,0,0,0,,The future will be like that!
-Dialogue: 0,0:47:27.95,0:47:32.58,EdE,,0,0,0,,Poverty! Patience!
-Dialogue: 0,0:47:32.58,0:47:38.00,EdE,,0,0,0,,Fiery good success!
-Dialogue: 0,0:47:42.22,0:47:46.18,EdE,,0,0,0,,This world is all about money, I'd say.
-Dialogue: 0,0:47:46.85,0:47:50.77,EdE,,0,0,0,,It's easy living in a broken dream,
-Dialogue: 0,0:47:51.60,0:47:55.86,EdE,,0,0,0,,deep in the jungle of a cosmic sea.
-Dialogue: 0,0:47:55.86,0:47:59.28,EdE,,0,0,0,,Woman power!
-Dialogue: 0,0:48:01.74,0:48:06.45,EdE,,0,0,0,,Poverty! Violence!
-Dialogue: 0,0:48:06.45,0:48:11.20,EdE,,0,0,0,,Love is power!
-Dialogue: 0,0:48:11.20,0:48:15.71,EdE,,0,0,0,,Poverty! Patience!
-Dialogue: 0,0:48:15.71,0:48:21.13,EdE,,0,0,0,,{\fad(0,1000)}Take it all. Big success!
+Dialogue: 0,0:46:44.70,0:46:49.41,EdE,,0,0,0,,{Coins jingle jingle, a merry sound.\NMarry for money!}Đồng xu kêu lẻng kẻng.\N Cưới chồng giàu!
+Dialogue: 0,0:46:49.41,0:46:54.04,EdE,,0,0,0,,{In a pinch, some money would be as good.}Dù có trong lúc khốn khó, \Nphải là "kim" đấy.
+Dialogue: 0,0:46:54.04,0:46:59.01,EdE,,0,0,0,,{It's a chance to dance, I know you'll take it!}Nếu có cơ hội để nhảy,\N thì hãy nhảy đi nào!
+Dialogue: 0,0:46:59.01,0:47:03.01,EdE,,0,0,0,,{All men are boys with money, I'd say.}Đàn ông chỉ toàn là tiền.
+Dialogue: 0,0:47:03.72,0:47:08.23,EdE,,0,0,0,,{Their bodies gleam.\N Credit charged, you know!}Trên người họ lúc nào cũng có tiền cả.
+Dialogue: 0,0:47:08.23,0:47:16.02,EdE,,0,0,0,,{Super greedy with incredible sexy power!}Cứng đầu, ích kỷ. \NSức mạnh quyến rũ!
+Dialogue: 0,0:47:18.61,0:47:23.28,EdE,,0,0,0,,{Poverty! Violence!}Nghèo! Bạo lực!
+Dialogue: 0,0:47:23.28,0:47:27.95,EdE,,0,0,0,,{The future will be like that!}Tương lai bạn nằm ở đó đấy!
+Dialogue: 0,0:47:27.95,0:47:32.58,EdE,,0,0,0,,{Poverty! Patience!}Nghèo! Kiên nhẫn!
+Dialogue: 0,0:47:32.58,0:47:38.00,EdE,,0,0,0,,{Fiery good success!}Nồng nhiệt vào! Thành công tốt!
+Dialogue: 0,0:47:42.22,0:47:46.18,EdE,,0,0,0,,{This world is all about money, I'd say.}Thế giới này chỉ toàn là về tiền.
+Dialogue: 0,0:47:46.85,0:47:50.77,EdE,,0,0,0,,{It's easy living in a broken dream,}Giấc mơ viễn vong
+Dialogue: 0,0:47:51.60,0:47:55.86,EdE,,0,0,0,,{deep in the jungle of a cosmic sea.}trong khu rừng bán nhiệt đới của vũ trụ.
+Dialogue: 0,0:47:55.86,0:47:59.28,EdE,,0,0,0,,{Woman power!}Sức mạnh phái nữ!
+Dialogue: 0,0:48:01.74,0:48:06.45,EdE,,0,0,0,,{Poverty! Violence!}Nghèo! Bạo lực!
+Dialogue: 0,0:48:06.45,0:48:11.20,EdE,,0,0,0,,{Love is power!}Tình yêu chính là sức mạnh!
+Dialogue: 0,0:48:11.20,0:48:15.71,EdE,,0,0,0,,{Poverty! Patience!}Nghèo! Kiên nhẫn!
+Dialogue: 0,0:48:15.71,0:48:21.13,EdE,,0,0,0,,{\fad(0,1000)}{Take it all. Big success!}Nắm bắt tất cả. Đại thành công!
 Comment: 0,0:00:20.14,0:00:22.14,Sign,,0,0,0,,Ending end
 Dialogue: 0,0:00:22.14,0:00:25.35,Sign,,0,0,0,,{\fad(550,1100)\fs50\fnKozuka Mincho Pro H\blur1.2\pos(315,340)\c&H4516F4&}Shogakukan
 Dialogue: 0,0:00:26.05,0:00:31.06,Sign,,0,0,0,,{\an3\fnUVN Van\fs38\pos(201,158.7)\blur0.6}{Production}Sản xuất\N \N
